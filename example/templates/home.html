@@ -1,0 +1,82 @@
+{% load staticfiles %}
+{% load floattags %}
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<title></title>
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<link rel="stylesheet" href="{% static "css/style.css" %}" >
+	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.css" />
+	<script src="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.js"></script>
+    <script src="{% static "js/js.js" %}" type="text/javascript" charset="utf-8"></script>
+</head>
+
+<body>
+
+<div class="wrapper">
+
+	<header class="header">
+	</header><!-- .header-->
+
+	<div id="map" style="width: 600px; height: 500px"></div>
+
+	<script>
+    	var map = L.map('map').setView([55.755768, 37.617671], 11);
+
+		L.tileLayer('http://{s}.tile.cloudmade.com/BC9A493B41014CAABB98F0471D759707/997/256/{z}/{x}/{y}.png', {
+			maxZoom: 15,
+			attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>'
+		}).addTo(map);
+
+        // initialize global markers group
+        var objects = new L.LayerGroup();
+	</script>
+
+    <div class="objects">
+        <img id="eventsButton" src="{% static "images/event.jpg" %}" onclick="showEvents()">
+        <img id="cinemasButton" src="{% static "images/cinema.jpg" %}" onclick="showCinemas()">
+        <ul class="events" id="events"></ul>
+        <ul class="cinemas" id="cinemas" style="display: none"></ul>
+        <img id="left" src="{% static "images/arrow_left.png" %}" style="position: absolute; top: 550px; margin-left: 7px;" onclick="changePage(this.id)">
+        <img id="right" src="{% static "images/arrow_right.png" %}" style="position: absolute; top: 550px; margin-left: 293px;"  onclick="changePage(this.id)">
+    </div>
+
+    <form action="/" method="get">
+	    <input name="search" class="enter" />
+    </form>
+</div><!-- .wrapper -->
+
+{# inizialize objects #}
+<script>
+var eventInd = 0;
+var eventsPoints = [];
+var eventsData = [];
+{% for event in events %}
+    eventsData.push({"name": "{{ event.name }}",
+                     "href": "{{ event.href }}",
+                     "place": "{{ event.place.name }}",
+                     "price": "{% if event.price_min %}от {{ event.price_min }}{% endif %}{% if event.price_max %} до {{ event.price_max }}{% endif %}",
+                     "time": "{% if event.start %}с {{ event.start.time }}{% endif %}{% if event.end %} до {{ event.end.time }}{% endif %}"
+                     {% if event.place.geo.x %},"geo": [{{ event.place.geo.y|formatted_float }}, {{event.place.geo.x|formatted_float }}]{% endif %}});
+{% endfor %}
+
+var cinemaInd = 0;
+var cinemasPoints = [];
+var cinemasData = [];
+{% for cinema in cinemas %}
+    cinema = {"name": "{{ cinema.name }}"
+             {% if cinema.place.geo.x %},"geo": [{{ cinema.place.geo.y|formatted_float }}, {{cinema.place.geo.x|formatted_float }}]{% endif %}};
+    cinemasData.push(cinema)
+{% endfor %}
+
+if (eventsData.length == 0) var current = 1;
+else var current = 0;
+
+createObjects();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,2424 @@
+-   fields: {x: 37.7342, y: 55.8148}
+    model: example.point
+    pk: 1
+-   fields: {x: 37.7448, y: 55.8038}
+    model: example.point
+    pk: 2
+-   fields: {x: 37.7151, y: 55.7963}
+    model: example.point
+    pk: 3
+-   fields: {x: 37.6802, y: 55.7888}
+    model: example.point
+    pk: 4
+-   fields: {x: 37.6673, y: 55.7801}
+    model: example.point
+    pk: 5
+-   fields: {x: 37.6562, y: 55.7753}
+    model: example.point
+    pk: 6
+-   fields: {x: 37.6487, y: 55.769}
+    model: example.point
+    pk: 7
+-   fields: {x: 37.6388, y: 55.7657}
+    model: example.point
+    pk: 8
+-   fields: {x: 37.6272, y: 55.7597}
+    model: example.point
+    pk: 9
+-   fields: {x: 37.6166, y: 55.7577}
+    model: example.point
+    pk: 10
+-   fields: {x: 37.61, y: 55.7512}
+    model: example.point
+    pk: 11
+-   fields: {x: 37.6037, y: 55.7453}
+    model: example.point
+    pk: 12
+-   fields: {x: 37.5943, y: 55.7356}
+    model: example.point
+    pk: 13
+-   fields: {x: 37.5786, y: 55.7267}
+    model: example.point
+    pk: 14
+-   fields: {x: 37.5639, y: 55.7233}
+    model: example.point
+    pk: 15
+-   fields: {x: 37.5592, y: 55.7103}
+    model: example.point
+    pk: 16
+-   fields: {x: 37.5333, y: 55.6926}
+    model: example.point
+    pk: 17
+-   fields: {x: 37.506, y: 55.6771}
+    model: example.point
+    pk: 18
+-   fields: {x: 37.4833, y: 55.6637}
+    model: example.point
+    pk: 19
+-   fields: {x: 37.4761, y: 55.8549}
+    model: example.point
+    pk: 20
+-   fields: {x: 37.4867, y: 55.8398}
+    model: example.point
+    pk: 21
+-   fields: {x: 37.498, y: 55.819}
+    model: example.point
+    pk: 22
+-   fields: {x: 37.5153, y: 55.8051}
+    model: example.point
+    pk: 23
+-   fields: {x: 37.5329, y: 55.8003}
+    model: example.point
+    pk: 24
+-   fields: {x: 37.558, y: 55.7897}
+    model: example.point
+    pk: 25
+-   fields: {x: 37.5835, y: 55.7767}
+    model: example.point
+    pk: 26
+-   fields: {x: 37.5958, y: 55.7701}
+    model: example.point
+    pk: 27
+-   fields: {x: 37.6065, y: 55.7647}
+    model: example.point
+    pk: 28
+-   fields: {x: 37.619, y: 55.7578}
+    model: example.point
+    pk: 29
+-   fields: {x: 37.6295, y: 55.7415}
+    model: example.point
+    pk: 30
+-   fields: {x: 37.6377, y: 55.7305}
+    model: example.point
+    pk: 31
+-   fields: {x: 37.6576, y: 55.7074}
+    model: example.point
+    pk: 32
+-   fields: {x: 37.6638, y: 55.6785}
+    model: example.point
+    pk: 33
+-   fields: {x: 37.6487, y: 55.6551}
+    model: example.point
+    pk: 34
+-   fields: {x: 37.6564, y: 55.6358}
+    model: example.point
+    pk: 35
+-   fields: {x: 37.6694, y: 55.6214}
+    model: example.point
+    pk: 36
+-   fields: {x: 37.6949, y: 55.6132}
+    model: example.point
+    pk: 37
+-   fields: {x: 37.7186, y: 55.6108}
+    model: example.point
+    pk: 38
+-   fields: {x: 37.7444, y: 55.6137}
+    model: example.point
+    pk: 39
+-   fields: {x: 37.766, y: 55.6326}
+    model: example.point
+    pk: 40
+-   fields: {x: 37.3544, y: 55.8563}
+    model: example.point
+    pk: 41
+-   fields: {x: 37.3622, y: 55.8457}
+    model: example.point
+    pk: 42
+-   fields: {x: 37.3822, y: 55.8354}
+    model: example.point
+    pk: 43
+-   fields: {x: 37.3852, y: 55.8252}
+    model: example.point
+    pk: 44
+-   fields: {x: 37.4031, y: 55.8038}
+    model: example.point
+    pk: 45
+-   fields: {x: 37.4081, y: 55.7567}
+    model: example.point
+    pk: 46
+-   fields: {x: 37.4168, y: 55.7408}
+    model: example.point
+    pk: 47
+-   fields: {x: 37.4459, y: 55.7307}
+    model: example.point
+    pk: 48
+-   fields: {x: 37.4706, y: 55.7296}
+    model: example.point
+    pk: 49
+-   fields: {x: 37.5182, y: 55.7362}
+    model: example.point
+    pk: 50
+-   fields: {x: 37.5645, y: 55.7442}
+    model: example.point
+    pk: 51
+-   fields: {x: 37.5823, y: 55.7474}
+    model: example.point
+    pk: 52
+-   fields: {x: 37.6061, y: 55.7522}
+    model: example.point
+    pk: 53
+-   fields: {x: 37.6216, y: 55.7566}
+    model: example.point
+    pk: 54
+-   fields: {x: 37.6577, y: 55.7576}
+    model: example.point
+    pk: 55
+-   fields: {x: 37.6806, y: 55.773}
+    model: example.point
+    pk: 56
+-   fields: {x: 37.7037, y: 55.7817}
+    model: example.point
+    pk: 57
+-   fields: {x: 37.7208, y: 55.7833}
+    model: example.point
+    pk: 58
+-   fields: {x: 37.7506, y: 55.7886}
+    model: example.point
+    pk: 59
+-   fields: {x: 37.7814, y: 55.7878}
+    model: example.point
+    pk: 60
+-   fields: {x: 37.7993, y: 55.7948}
+    model: example.point
+    pk: 61
+-   fields: {x: 37.7986, y: 55.8094}
+    model: example.point
+    pk: 62
+-   fields: {x: 37.4671, y: 55.736}
+    model: example.point
+    pk: 63
+-   fields: {x: 37.4833, y: 55.7396}
+    model: example.point
+    pk: 64
+-   fields: {x: 37.4977, y: 55.7438}
+    model: example.point
+    pk: 65
+-   fields: {x: 37.515, y: 55.746}
+    model: example.point
+    pk: 66
+-   fields: {x: 37.5344, y: 55.7399}
+    model: example.point
+    pk: 67
+-   fields: {x: 37.5483, y: 55.7388}
+    model: example.point
+    pk: 68
+-   fields: {x: 37.5339, y: 55.7483}
+    model: example.point
+    pk: 69
+-   fields: {x: 37.5408, y: 55.7502}
+    model: example.point
+    pk: 70
+-   fields: {x: 37.5655, y: 55.7436}
+    model: example.point
+    pk: 71
+-   fields: {x: 37.5825, y: 55.7488}
+    model: example.point
+    pk: 72
+-   fields: {x: 37.6007, y: 55.7518}
+    model: example.point
+    pk: 73
+-   fields: {x: 37.6085, y: 55.7525}
+    model: example.point
+    pk: 74
+-   fields: {x: 37.5915, y: 55.7357}
+    model: example.point
+    pk: 75
+-   fields: {x: 37.6091, y: 55.7297}
+    model: example.point
+    pk: 76
+-   fields: {x: 37.6243, y: 55.7291}
+    model: example.point
+    pk: 77
+-   fields: {x: 37.6379, y: 55.7318}
+    model: example.point
+    pk: 78
+-   fields: {x: 37.6517, y: 55.7418}
+    model: example.point
+    pk: 79
+-   fields: {x: 37.6595, y: 55.757}
+    model: example.point
+    pk: 80
+-   fields: {x: 37.6549, y: 55.7748}
+    model: example.point
+    pk: 81
+-   fields: {x: 37.6318, y: 55.7798}
+    model: example.point
+    pk: 82
+-   fields: {x: 37.6028, y: 55.7799}
+    model: example.point
+    pk: 83
+-   fields: {x: 37.5844, y: 55.7764}
+    model: example.point
+    pk: 84
+-   fields: {x: 37.5774, y: 55.7613}
+    model: example.point
+    pk: 85
+-   fields: {x: 37.5644, y: 55.7446}
+    model: example.point
+    pk: 86
+-   fields: {x: 37.6613, y: 55.8872}
+    model: example.point
+    pk: 87
+-   fields: {x: 37.6644, y: 55.8694}
+    model: example.point
+    pk: 88
+-   fields: {x: 37.6527, y: 55.8552}
+    model: example.point
+    pk: 89
+-   fields: {x: 37.6383, y: 55.8449}
+    model: example.point
+    pk: 90
+-   fields: {x: 37.6411, y: 55.8211}
+    model: example.point
+    pk: 91
+-   fields: {x: 37.639, y: 55.8088}
+    model: example.point
+    pk: 92
+-   fields: {x: 37.6362, y: 55.7936}
+    model: example.point
+    pk: 93
+-   fields: {x: 37.6318, y: 55.7812}
+    model: example.point
+    pk: 94
+-   fields: {x: 37.6319, y: 55.7733}
+    model: example.point
+    pk: 95
+-   fields: {x: 37.6374, y: 55.7661}
+    model: example.point
+    pk: 96
+-   fields: {x: 37.6333, y: 55.7553}
+    model: example.point
+    pk: 97
+-   fields: {x: 37.6274, y: 55.7412}
+    model: example.point
+    pk: 98
+-   fields: {x: 37.6112, y: 55.7306}
+    model: example.point
+    pk: 99
+-   fields: {x: 37.6083, y: 55.7198}
+    model: example.point
+    pk: 100
+-   fields: {x: 37.5861, y: 55.7077}
+    model: example.point
+    pk: 101
+-   fields: {x: 37.5733, y: 55.6877}
+    model: example.point
+    pk: 102
+-   fields: {x: 37.5627, y: 55.678}
+    model: example.point
+    pk: 103
+-   fields: {x: 37.5544, y: 55.6702}
+    model: example.point
+    pk: 104
+-   fields: {x: 37.5405, y: 55.6571}
+    model: example.point
+    pk: 105
+-   fields: {x: 37.5257, y: 55.6428}
+    model: example.point
+    pk: 106
+-   fields: {x: 37.5188, y: 55.6333}
+    model: example.point
+    pk: 107
+-   fields: {x: 37.5082, y: 55.6191}
+    model: example.point
+    pk: 108
+-   fields: {x: 37.5333, y: 55.6063}
+    model: example.point
+    pk: 109
+-   fields: {x: 37.5541, y: 55.601}
+    model: example.point
+    pk: 110
+-   fields: {x: 37.4364, y: 55.8607}
+    model: example.point
+    pk: 111
+-   fields: {x: 37.4396, y: 55.8505}
+    model: example.point
+    pk: 112
+-   fields: {x: 37.4368, y: 55.8267}
+    model: example.point
+    pk: 113
+-   fields: {x: 37.4641, y: 55.8086}
+    model: example.point
+    pk: 114
+-   fields: {x: 37.4935, y: 55.7935}
+    model: example.point
+    pk: 115
+-   fields: {x: 37.5192, y: 55.7775}
+    model: example.point
+    pk: 116
+-   fields: {x: 37.5468, y: 55.7738}
+    model: example.point
+    pk: 117
+-   fields: {x: 37.5613, y: 55.765}
+    model: example.point
+    pk: 118
+-   fields: {x: 37.5795, y: 55.7612}
+    model: example.point
+    pk: 119
+-   fields: {x: 37.6079, y: 55.765}
+    model: example.point
+    pk: 120
+-   fields: {x: 37.6259, y: 55.7606}
+    model: example.point
+    pk: 121
+-   fields: {x: 37.6522, y: 55.7402}
+    model: example.point
+    pk: 122
+-   fields: {x: 37.6659, y: 55.7319}
+    model: example.point
+    pk: 123
+-   fields: {x: 37.6869, y: 55.7253}
+    model: example.point
+    pk: 124
+-   fields: {x: 37.7316, y: 55.7088}
+    model: example.point
+    pk: 125
+-   fields: {x: 37.7656, y: 55.7056}
+    model: example.point
+    pk: 126
+-   fields: {x: 37.7933, y: 55.717}
+    model: example.point
+    pk: 127
+-   fields: {x: 37.8181, y: 55.7156}
+    model: example.point
+    pk: 128
+-   fields: {x: 37.8525, y: 55.7013}
+    model: example.point
+    pk: 129
+-   fields: {x: 37.8563, y: 55.6855}
+    model: example.point
+    pk: 130
+-   fields: {x: 37.6543, y: 55.7411}
+    model: example.point
+    pk: 131
+-   fields: {x: 37.6824, y: 55.7472}
+    model: example.point
+    pk: 132
+-   fields: {x: 37.7191, y: 55.7524}
+    model: example.point
+    pk: 133
+-   fields: {x: 37.75, y: 55.7576}
+    model: example.point
+    pk: 134
+-   fields: {x: 37.7866, y: 55.7511}
+    model: example.point
+    pk: 135
+-   fields: {x: 37.8166, y: 55.7517}
+    model: example.point
+    pk: 136
+-   fields: {x: 37.8638, y: 55.7451}
+    model: example.point
+    pk: 137
+-   fields: {x: 37.587, y: 55.898}
+    model: example.point
+    pk: 138
+-   fields: {x: 37.6034, y: 55.8838}
+    model: example.point
+    pk: 139
+-   fields: {x: 37.6047, y: 55.8633}
+    model: example.point
+    pk: 140
+-   fields: {x: 37.5899, y: 55.8473}
+    model: example.point
+    pk: 141
+-   fields: {x: 37.5745, y: 55.8351}
+    model: example.point
+    pk: 142
+-   fields: {x: 37.5765, y: 55.8176}
+    model: example.point
+    pk: 143
+-   fields: {x: 37.5817, y: 55.8069}
+    model: example.point
+    pk: 144
+-   fields: {x: 37.5885, y: 55.7927}
+    model: example.point
+    pk: 145
+-   fields: {x: 37.6011, y: 55.781}
+    model: example.point
+    pk: 146
+-   fields: {x: 37.6187, y: 55.7708}
+    model: example.point
+    pk: 147
+-   fields: {x: 37.6097, y: 55.7644}
+    model: example.point
+    pk: 148
+-   fields: {x: 37.6072, y: 55.7511}
+    model: example.point
+    pk: 149
+-   fields: {x: 37.618, y: 55.7379}
+    model: example.point
+    pk: 150
+-   fields: {x: 37.6246, y: 55.728}
+    model: example.point
+    pk: 151
+-   fields: {x: 37.6229, y: 55.7087}
+    model: example.point
+    pk: 152
+-   fields: {x: 37.6224, y: 55.683}
+    model: example.point
+    pk: 153
+-   fields: {x: 37.6104, y: 55.6724}
+    model: example.point
+    pk: 154
+-   fields: {x: 37.6055, y: 55.6627}
+    model: example.point
+    pk: 155
+-   fields: {x: 37.5984, y: 55.6524}
+    model: example.point
+    pk: 156
+-   fields: {x: 37.6067, y: 55.6405}
+    model: example.point
+    pk: 157
+-   fields: {x: 37.609, y: 55.6224}
+    model: example.point
+    pk: 158
+-   fields: {x: 37.6044, y: 55.6124}
+    model: example.point
+    pk: 159
+-   fields: {x: 37.6004, y: 55.5949}
+    model: example.point
+    pk: 160
+-   fields: {x: 37.5966, y: 55.5828}
+    model: example.point
+    pk: 161
+-   fields: {x: 37.5769, y: 55.5693}
+    model: example.point
+    pk: 162
+-   fields: {x: 37.6162, y: 55.7954}
+    model: example.point
+    pk: 163
+-   fields: {x: 37.6151, y: 55.7816}
+    model: example.point
+    pk: 164
+-   fields: {x: 37.62, y: 55.7688}
+    model: example.point
+    pk: 165
+-   fields: {x: 37.6392, y: 55.7668}
+    model: example.point
+    pk: 166
+-   fields: {x: 37.6573, y: 55.7565}
+    model: example.point
+    pk: 167
+-   fields: {x: 37.6819, y: 55.7463}
+    model: example.point
+    pk: 168
+-   fields: {x: 37.6673, y: 55.7331}
+    model: example.point
+    pk: 169
+-   fields: {x: 37.676, y: 55.7186}
+    model: example.point
+    pk: 170
+-   fields: {x: 37.6851, y: 55.7074}
+    model: example.point
+    pk: 171
+-   fields: {x: 37.727, y: 55.6934}
+    model: example.point
+    pk: 172
+-   fields: {x: 37.753, y: 55.6909}
+    model: example.point
+    pk: 173
+-   fields: {x: 37.7618, y: 55.6758}
+    model: example.point
+    pk: 174
+-   fields: {x: 37.7505, y: 55.6597}
+    model: example.point
+    pk: 175
+-   fields: {x: 37.7431, y: 55.65}
+    model: example.point
+    pk: 176
+-   fields: {x: 37.7436, y: 55.6334}
+    model: example.point
+    pk: 177
+-   fields: {x: 37.7437, y: 55.6211}
+    model: example.point
+    pk: 178
+-   fields: {x: 37.7453, y: 55.6124}
+    model: example.point
+    pk: 179
+-   fields: {x: 37.6194, y: 55.6533}
+    model: example.point
+    pk: 180
+-   fields: {x: 37.5983, y: 55.653}
+    model: example.point
+    pk: 181
+-   fields: {x: 37.5767, y: 55.569}
+    model: example.point
+    pk: 182
+-   fields: {x: 37.5546, y: 55.5481}
+    model: example.point
+    pk: 183
+-   fields: {x: 37.543, y: 55.5455}
+    model: example.point
+    pk: 184
+-   fields: {x: 37.5308, y: 55.5418}
+    model: example.point
+    pk: 185
+-   fields: {x: 37.5158, y: 55.538}
+    model: example.point
+    pk: 186
+-   fields:
+        name: "\u0441\u0432\u0430\u043E"
+        region: [1, 2, 5, 9, 14, 48, 50, 52, 53, 73, 74, 83, 87, 90, 92, 119, 123]
+    model: example.district
+    pk: 1
+-   fields:
+        name: "\u0446\u0430\u043E"
+        region: [3, 6, 29, 40, 57, 80, 100, 101, 108, 122]
+    model: example.district
+    pk: 2
+-   fields:
+        name: "\u0441\u0430\u043E"
+        region: [4, 7, 8, 17, 18, 23, 26, 30, 37, 46, 60, 86, 94, 104, 109, 111]
+    model: example.district
+    pk: 3
+-   fields:
+        name: "\u044E\u0430\u043E"
+        region: [10, 11, 13, 25, 27, 32, 61, 62, 63, 64, 71, 72, 112, 114, 115, 116]
+    model: example.district
+    pk: 4
+-   fields:
+        name: "\u0432\u0430\u043E"
+        region: [12, 15, 19, 20, 24, 33, 34, 38, 56, 67, 68, 76, 79, 89, 95, 96]
+    model: example.district
+    pk: 5
+-   fields:
+        name: "\u0437\u0430\u043E"
+        region: [16, 28, 41, 44, 59, 69, 75, 81, 82, 97, 105, 106, 107]
+    model: example.district
+    pk: 6
+-   fields:
+        name: "\u044E\u0432\u0430\u043E"
+        region: [21, 35, 43, 47, 51, 54, 65, 66, 77, 84, 102, 121]
+    model: example.district
+    pk: 7
+-   fields:
+        name: "\u044E\u0437\u0430\u043E"
+        region: [22, 31, 36, 39, 49, 70, 88, 103, 113, 118, 124]
+    model: example.district
+    pk: 8
+-   fields:
+        name: "\u0437\u0435\u043B\u0430\u043E"
+        region: [42, 55, 85, 93, 98]
+    model: example.district
+    pk: 9
+-   fields:
+        name: "\u0441\u0437\u0430\u043E"
+        region: [45, 58, 78, 91, 99, 110, 117, 120]
+    model: example.district
+    pk: 10
+-   fields:
+        name: "\u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0441\u043A\u0438\u0439"
+        subways: []
+    model: example.region
+    pk: 1
+-   fields:
+        name: "\u0430\u043B\u0442\u0443\u0444\u044C\u0435\u0432\u0441\u043A\u0438\u0439"
+        subways: []
+    model: example.region
+    pk: 2
+-   fields:
+        name: "\u0430\u0440\u0431\u0430\u0442"
+        subways: []
+    model: example.region
+    pk: 3
+-   fields:
+        name: "\u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442"
+        subways: []
+    model: example.region
+    pk: 4
+-   fields:
+        name: "\u0431\u0430\u0431\u0443\u0448\u043A\u0438\u043D\u0441\u043A\u0438\u0439"
+        subways: [79]
+    model: example.region
+    pk: 5
+-   fields:
+        name: "\u0431\u0430\u0441\u043C\u0430\u043D\u043D\u044B\u0439"
+        subways: [7, 8, 9, 55, 56, 87, 155]
+    model: example.region
+    pk: 6
+-   fields:
+        name: "\u0431\u0435\u0433\u043E\u0432\u043E\u0439"
+        subways: []
+    model: example.region
+    pk: 7
+-   fields:
+        name: "\u0431\u0435\u0441\u043A\u0443\u0434\u043D\u0438\u043A\u043E\u0432\u0441\
+            \u043A\u0438\u0439"
+        subways: []
+    model: example.region
+    pk: 8
+-   fields:
+        name: "\u0431\u0438\u0431\u0438\u0440\u0435\u0432\u043E"
+        subways: []
+    model: example.region
+    pk: 9
+-   fields:
+        name: "\u0431\u0438\u0440\u044E\u043B\u0451\u0432\u043E \u0432\u043E\u0441\
+            \u0442\u043E\u0447\u043D\u043E\u0435"
+        subways: []
+    model: example.region
+    pk: 10
+-   fields:
+        name: "\u0431\u0438\u0440\u044E\u043B\u0451\u0432\u043E \u0437\u0430\u043F\
+            \u0430\u0434\u043D\u043E\u0435"
+        subways: []
+    model: example.region
+    pk: 11
+-   fields:
+        name: "\u0431\u043E\u0433\u043E\u0440\u043E\u0434\u0441\u043A\u043E\u0435"
+        subways: []
+    model: example.region
+    pk: 12
+-   fields:
+        name: "\u0431\u0440\u0430\u0442\u0435\u0435\u0432\u043E"
+        subways: [40, 165]
+    model: example.region
+    pk: 13
+-   fields:
+        name: "\u0431\u0443\u0442\u044B\u0440\u0441\u043A\u0438\u0439"
+        subways: []
+    model: example.region
+    pk: 14
+-   fields:
+        name: "\u0432\u0435\u0448\u043D\u044F\u043A\u0438"
+        subways: []
+    model: example.region
+    pk: 15
+-   fields:
+        name: "\u0432\u043D\u0443\u043A\u043E\u0432\u043E"
+        subways: []
+    model: example.region
+    pk: 16
+-   fields:
+        name: "\u0432\u043E\u0439\u043A\u043E\u0432\u0441\u043A\u0438\u0439"
+        subways: []
+    model: example.region
+    pk: 17
+-   fields:
+        name: "\u0432\u043E\u0441\u0442\u043E\u0447\u043D\u043E\u0435 \u0434\u0435\
+            \u0433\u0443\u043D\u0438\u043D\u043E"
+        subways: []
+    model: example.region
+    pk: 18
+-   fields:
+        name: "\u0432\u043E\u0441\u0442\u043E\u0447\u043D\u043E\u0435 \u0438\u0437\
+            \u043C\u0430\u0439\u043B\u043E\u0432\u043E"
+        subways: []
+    model: example.region
+    pk: 19
+-   fields:
+        name: "\u0432\u043E\u0441\u0442\u043E\u0447\u043D\u044B\u0439"
+        subways: []
+    model: example.region
+    pk: 20
+-   fields:
+        name: "\u0432\u044B\u0445\u0438\u043D\u043E-\u0436\u0443\u043B\u0435\u0431\
+            \u0438\u043D\u043E"
+        subways: []
+    model: example.region
+    pk: 21
+-   fields:
+        name: "\u0433\u0430\u0433\u0430\u0440\u0438\u043D\u0441\u043A\u0438\u0439"
+        subways: [16, 17, 90]
+    model: example.region
+    pk: 22
+-   fields:
+        name: "\u0433\u043E\u043B\u043E\u0432\u0438\u043D\u0441\u043A\u0438\u0439"
+        subways: []
+    model: example.region
+    pk: 23
+-   fields:
+        name: "\u0433\u043E\u043B\u044C\u044F\u043D\u043E\u0432\u043E"
+        subways: []
+    model: example.region
+    pk: 24
+-   fields:
+        name: "\u0434\u0430\u043D\u0438\u043B\u043E\u0432\u0441\u043A\u0438\u0439"
+        subways: [32, 140]
+    model: example.region
+    pk: 25
+-   fields:
+        name: "\u0434\u043C\u0438\u0442\u0440\u043E\u0432\u0441\u043A\u0438\u0439"
+        subways: []
+    model: example.region
+    pk: 26
+-   fields:
+        name: "\u0434\u043E\u043D\u0441\u043A\u043E\u0439"
+        subways: []
+    model: example.region
+    pk: 27
+-   fields:
+        name: "\u0434\u043E\u0440\u043E\u0433\u043E\u043C\u0438\u043B\u043E\u0432\u043E"
+        subways: [50, 51, 67, 68]
+    model: example.region
+    pk: 28
+-   fields:
+        name: "\u0437\u0430\u043C\u043E\u0441\u043A\u0432\u043E\u0440\u0435\u0447\u044C\
+            \u0435"
+        subways: []
+    model: example.region
+    pk: 29
+-   fields:
+        name: "\u0437\u0430\u043F\u0430\u0434\u043D\u043E\u0435 \u0434\u0435\u0433\
+            \u0443\u043D\u0438\u043D\u043E"
+        subways: []
+    model: example.region
+    pk: 30
+-   fields:
+        name: "\u0437\u044E\u0437\u0438\u043D\u043E"
+        subways: [143, 144, 169]
+    model: example.region
+    pk: 31
+-   fields:
+        name: "\u0437\u044F\u0431\u043B\u0438\u043A\u043E\u0432\u043E"
+        subways: [39, 166, 167]
+    model: example.region
+    pk: 32
+-   fields:
+        name: "\u0438\u0432\u0430\u043D\u043E\u0432\u0441\u043A\u043E\u0435"
+        subways: []
+    model: example.region
+    pk: 33
+-   fields:
+        name: "\u0438\u0437\u043C\u0430\u0439\u043B\u043E\u0432\u043E"
+        subways: []
+    model: example.region
+    pk: 34
+-   fields:
+        name: "\u043A\u0430\u043F\u043E\u0442\u043D\u044F"
+        subways: []
+    model: example.region
+    pk: 35
+-   fields:
+        name: "\u043A\u043E\u043D\u044C\u043A\u043E\u0432\u043E"
+        subways: [94, 95, 96]
+    model: example.region
+    pk: 36
+-   fields:
+        name: "\u043A\u043E\u043F\u0442\u0435\u0432\u043E"
+        subways: []
+    model: example.region
+    pk: 37
+-   fields:
+        name: "\u043A\u043E\u0441\u0438\u043D\u043E-\u0443\u0445\u0442\u043E\u043C\
+            \u0441\u043A\u0438\u0439"
+        subways: []
+    model: example.region
+    pk: 38
+-   fields:
+        name: "\u043A\u043E\u0442\u043B\u043E\u0432\u043A\u0430"
+        subways: []
+    model: example.region
+    pk: 39
+-   fields:
+        name: "\u043A\u0440\u0430\u0441\u043D\u043E\u0441\u0435\u043B\u044C\u0441\u043A\
+            \u0438\u0439"
+        subways: [5, 6, 7, 85, 86, 154]
+    model: example.region
+    pk: 40
+-   fields:
+        name: "\u043A\u0440\u044B\u043B\u0430\u0442\u0441\u043A\u043E\u0435"
+        subways: []
+    model: example.region
+    pk: 41
+-   fields:
+        name: "\u043A\u0440\u044E\u043A\u043E\u0432\u043E"
+        subways: []
+    model: example.region
+    pk: 42
+-   fields:
+        name: "\u043A\u0443\u0437\u044C\u043C\u0438\u043D\u043A\u0438"
+        subways: []
+    model: example.region
+    pk: 43
+-   fields:
+        name: "\u043A\u0443\u043D\u0446\u0435\u0432\u043E"
+        subways: [47, 48]
+    model: example.region
+    pk: 44
+-   fields:
+        name: "\u043A\u0443\u0440\u043A\u0438\u043D\u043E"
+        subways: []
+    model: example.region
+    pk: 45
+-   fields:
+        name: "\u043B\u0435\u0432\u043E\u0431\u0435\u0440\u0435\u0436\u043D\u044B\u0439\
+            \ \u0440\u0430\u0439\u043E\u043D"
+        subways: []
+    model: example.region
+    pk: 46
+-   fields:
+        name: "\u043B\u0435\u0444\u043E\u0440\u0442\u043E\u0432\u043E"
+        subways: []
+    model: example.region
+    pk: 47
+-   fields:
+        name: "\u043B\u0438\u0430\u043D\u043E\u0437\u043E\u0432\u043E"
+        subways: []
+    model: example.region
+    pk: 48
+-   fields:
+        name: "\u043B\u043E\u043C\u043E\u043D\u043E\u0441\u043E\u0432\u0441\u043A\u0438\
+            \u0439"
+        subways: []
+    model: example.region
+    pk: 49
+-   fields:
+        name: "\u043B\u043E\u0441\u0438\u043D\u043E\u043E\u0441\u0442\u0440\u043E\u0432\
+            \u0441\u043A\u0438\u0439"
+        subways: [78, 79]
+    model: example.region
+    pk: 50
+-   fields:
+        name: "\u043B\u044E\u0431\u043B\u0438\u043D\u043E"
+        subways: [161, 162]
+    model: example.region
+    pk: 51
+-   fields:
+        name: "\u043C\u0430\u0440\u0444\u0438\u043D\u043E"
+        subways: []
+    model: example.region
+    pk: 52
+-   fields:
+        name: "\u043C\u0430\u0440\u044C\u0438\u043D\u0430 \u0440\u043E\u0449\u0430"
+        subways: []
+    model: example.region
+    pk: 53
+-   fields:
+        name: "\u043C\u0430\u0440\u044C\u0438\u043D\u043E"
+        subways: [163, 164]
+    model: example.region
+    pk: 54
+-   fields:
+        name: "\u043C\u0430\u0442\u0443\u0448\u043A\u0438\u043D\u043E"
+        subways: []
+    model: example.region
+    pk: 55
+-   fields:
+        name: "\u043C\u0435\u0442\u0440\u043E\u0433\u043E\u0440\u043E\u0434\u043E\u043A"
+        subways: []
+    model: example.region
+    pk: 56
+-   fields:
+        name: "\u043C\u0435\u0449\u0430\u043D\u0441\u043A\u0438\u0439"
+        subways: []
+    model: example.region
+    pk: 57
+-   fields:
+        name: "\u043C\u0438\u0442\u0438\u043D\u043E"
+        subways: [41, 42, 43]
+    model: example.region
+    pk: 58
+-   fields:
+        name: "\u043C\u043E\u0436\u0430\u0439\u0441\u043A\u0438\u0439"
+        subways: []
+    model: example.region
+    pk: 59
+-   fields:
+        name: "\u043C\u043E\u043B\u0436\u0430\u043D\u0438\u043D\u043E\u0432\u0441\u043A\
+            \u0438\u0439"
+        subways: []
+    model: example.region
+    pk: 60
+-   fields:
+        name: "\u043C\u043E\u0441\u043A\u0432\u043E\u0440\u0435\u0447\u044C\u0435\
+            -\u0441\u0430\u0431\u0443\u0440\u043E\u0432\u043E"
+        subways: []
+    model: example.region
+    pk: 61
+-   fields:
+        name: "\u043D\u0430\u0433\u0430\u0442\u0438\u043D\u043E-\u0441\u0430\u0434\
+            \u043E\u0432\u043D\u0438\u043A\u0438"
+        subways: []
+    model: example.region
+    pk: 62
+-   fields:
+        name: "\u043D\u0430\u0433\u0430\u0442\u0438\u043D\u0441\u043A\u0438\u0439\
+            \ \u0437\u0430\u0442\u043E\u043D"
+        subways: []
+    model: example.region
+    pk: 63
+-   fields:
+        name: "\u043D\u0430\u0433\u043E\u0440\u043D\u044B\u0439"
+        subways: []
+    model: example.region
+    pk: 64
+-   fields:
+        name: "\u043D\u0435\u043A\u0440\u0430\u0441\u043E\u0432\u043A\u0430"
+        subways: []
+    model: example.region
+    pk: 65
+-   fields:
+        name: "\u043D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u0441\u043A\u0438\
+            \u0439"
+        subways: []
+    model: example.region
+    pk: 66
+-   fields:
+        name: "\u043D\u043E\u0432\u043E\u0433\u0438\u0440\u0435\u0435\u0432\u043E"
+        subways: []
+    model: example.region
+    pk: 67
+-   fields:
+        name: "\u043D\u043E\u0432\u043E\u043A\u043E\u0441\u0438\u043D\u043E"
+        subways: []
+    model: example.region
+    pk: 68
+-   fields:
+        name: "\u043D\u043E\u0432\u043E-\u043F\u0435\u0440\u0435\u0434\u0435\u043B\
+            \u043A\u0438\u043D\u043E"
+        subways: []
+    model: example.region
+    pk: 69
+-   fields:
+        name: "\u043E\u0431\u0440\u0443\u0447\u0435\u0432\u0441\u043A\u0438\u0439"
+        subways: [93, 94]
+    model: example.region
+    pk: 70
+-   fields:
+        name: "\u043E\u0440\u0435\u0445\u043E\u0432\u043E-\u0431\u043E\u0440\u0438\
+            \u0441\u043E\u0432\u043E \u0441\u0435\u0432\u0435\u0440\u043D\u043E\u0435"
+        subways: []
+    model: example.region
+    pk: 71
+-   fields:
+        name: "\u043E\u0440\u0435\u0445\u043E\u0432\u043E-\u0431\u043E\u0440\u0438\
+            \u0441\u043E\u0432\u043E \u044E\u0436\u043D\u043E\u0435"
+        subways: []
+    model: example.region
+    pk: 72
+-   fields:
+        name: "\u043E\u0441\u0442\u0430\u043D\u043A\u0438\u043D\u0441\u043A\u0438\u0439\
+            \ \u0440\u0430\u0439\u043E\u043D"
+        subways: []
+    model: example.region
+    pk: 73
+-   fields:
+        name: "\u043E\u0442\u0440\u0430\u0434\u043D\u043E\u0435"
+        subways: [128, 129]
+    model: example.region
+    pk: 74
+-   fields:
+        name: "\u043E\u0447\u0430\u043A\u043E\u0432\u043E-\u043C\u0430\u0442\u0432\
+            \u0435\u0435\u0432\u0441\u043A\u043E\u0435"
+        subways: []
+    model: example.region
+    pk: 75
+-   fields:
+        name: "\u043F\u0435\u0440\u043E\u0432\u043E"
+        subways: [122, 123]
+    model: example.region
+    pk: 76
+-   fields:
+        name: "\u043F\u0435\u0447\u0430\u0442\u043D\u0438\u043A\u0438"
+        subways: []
+    model: example.region
+    pk: 77
+-   fields:
+        name: "\u043F\u043E\u043A\u0440\u043E\u0432\u0441\u043A\u043E\u0435-\u0441\
+            \u0442\u0440\u0435\u0448\u043D\u0435\u0432\u043E"
+        subways: []
+    model: example.region
+    pk: 78
+-   fields:
+        name: "\u043F\u0440\u0435\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0441\u043A\
+            \u043E\u0435"
+        subways: [2, 3]
+    model: example.region
+    pk: 79
+-   fields:
+        name: "\u043F\u0440\u0435\u0441\u043D\u0435\u043D\u0441\u043A\u0438\u0439"
+        subways: []
+    model: example.region
+    pk: 80
+-   fields:
+        name: "\u043F\u0440\u043E\u0441\u043F\u0435\u043A\u0442 \u0432\u0435\u0440\
+            \u043D\u0430\u0434\u0441\u043A\u043E\u0433\u043E"
+        subways: [18]
+    model: example.region
+    pk: 81
+-   fields:
+        name: "\u0440\u0430\u043C\u0435\u043D\u043A\u0438"
+        subways: [16, 17]
+    model: example.region
+    pk: 82
+-   fields:
+        name: "\u0440\u043E\u0441\u0442\u043E\u043A\u0438\u043D\u043E"
+        subways: []
+    model: example.region
+    pk: 83
+-   fields:
+        name: "\u0440\u044F\u0437\u0430\u043D\u0441\u043A\u0438\u0439"
+        subways: []
+    model: example.region
+    pk: 84
+-   fields:
+        name: "\u0441\u0430\u0432\u0451\u043B\u043A\u0438"
+        subways: []
+    model: example.region
+    pk: 85
+-   fields:
+        name: "\u0441\u0430\u0432\u0451\u043B\u043E\u0432\u0441\u043A\u0438\u0439"
+        subways: []
+    model: example.region
+    pk: 86
+-   fields:
+        name: "\u0441\u0432\u0438\u0431\u043B\u043E\u0432\u043E"
+        subways: []
+    model: example.region
+    pk: 87
+-   fields:
+        name: "\u0441\u0435\u0432\u0435\u0440\u043D\u043E\u0435 \u0431\u0443\u0442\
+            \u043E\u0432\u043E"
+        subways: [150, 170]
+    model: example.region
+    pk: 88
+-   fields:
+        name: "\u0441\u0435\u0432\u0435\u0440\u043D\u043E\u0435 \u0438\u0437\u043C\
+            \u0430\u0439\u043B\u043E\u0432\u043E"
+        subways: []
+    model: example.region
+    pk: 89
+-   fields:
+        name: "\u0441\u0435\u0432\u0435\u0440\u043D\u043E\u0435 \u043C\u0435\u0434\
+            \u0432\u0435\u0434\u043A\u043E\u0432\u043E"
+        subways: []
+    model: example.region
+    pk: 90
+-   fields:
+        name: "\u0441\u0435\u0432\u0435\u0440\u043D\u043E\u0435 \u0442\u0443\u0448\
+            \u0438\u043D\u043E"
+        subways: []
+    model: example.region
+    pk: 91
+-   fields:
+        name: "\u0441\u0435\u0432\u0435\u0440\u043D\u044B\u0439"
+        subways: []
+    model: example.region
+    pk: 92
+-   fields:
+        name: "\u0441\u0438\u043B\u0438\u043D\u043E"
+        subways: []
+    model: example.region
+    pk: 93
+-   fields:
+        name: "\u0441\u043E\u043A\u043E\u043B"
+        subways: []
+    model: example.region
+    pk: 94
+-   fields:
+        name: "\u0441\u043E\u043A\u043E\u043B\u0438\u043D\u0430\u044F \u0433\u043E\
+            \u0440\u0430"
+        subways: []
+    model: example.region
+    pk: 95
+-   fields:
+        name: "\u0441\u043E\u043A\u043E\u043B\u044C\u043D\u0438\u043A\u0438"
+        subways: [4]
+    model: example.region
+    pk: 96
+-   fields:
+        name: "\u0441\u043E\u043B\u043D\u0446\u0435\u0432\u043E"
+        subways: []
+    model: example.region
+    pk: 97
+-   fields:
+        name: "\u0441\u0442\u0430\u0440\u043E\u0435 \u043A\u0440\u044E\u043A\u043E\
+            \u0432\u043E"
+        subways: []
+    model: example.region
+    pk: 98
+-   fields:
+        name: "\u0441\u0442\u0440\u043E\u0433\u0438\u043D\u043E"
+        subways: []
+    model: example.region
+    pk: 99
+-   fields:
+        name: "\u0442\u0430\u0433\u0430\u043D\u0441\u043A\u0438\u0439"
+        subways: [55, 74, 87, 111, 112, 119, 120, 155, 156, 157]
+    model: example.region
+    pk: 100
+-   fields:
+        name: "\u0442\u0432\u0435\u0440\u0441\u043A\u043E\u0439"
+        subways: []
+    model: example.region
+    pk: 101
+-   fields:
+        name: "\u0442\u0435\u043A\u0441\u0442\u0438\u043B\u044C\u0449\u0438\u043A\u0438"
+        subways: []
+    model: example.region
+    pk: 102
+-   fields:
+        name: "\u0442\u0451\u043F\u043B\u044B\u0439 \u0441\u0442\u0430\u043D"
+        subways: [96, 97]
+    model: example.region
+    pk: 103
+-   fields:
+        name: "\u0442\u0438\u043C\u0438\u0440\u044F\u0437\u0435\u0432\u0441\u043A\u0438\
+            \u0439"
+        subways: [130, 131]
+    model: example.region
+    pk: 104
+-   fields:
+        name: "\u0442\u0440\u043E\u043F\u0430\u0440\u0451\u0432\u043E-\u043D\u0438\
+            \u043A\u0443\u043B\u0438\u043D\u043E"
+        subways: []
+    model: example.region
+    pk: 105
+-   fields:
+        name: "\u0444\u0438\u043B\u0451\u0432\u0441\u043A\u0438\u0439 \u043F\u0430\
+            \u0440\u043A"
+        subways: [64, 65, 66]
+    model: example.region
+    pk: 106
+-   fields:
+        name: "\u0444\u0438\u043B\u0438-\u0434\u0430\u0432\u044B\u0434\u043A\u043E\
+            \u0432\u043E"
+        subways: [48, 49, 63, 64]
+    model: example.region
+    pk: 107
+-   fields:
+        name: "\u0445\u0430\u043C\u043E\u0432\u043D\u0438\u043A\u0438"
+        subways: [12, 13, 14, 15, 16]
+    model: example.region
+    pk: 108
+-   fields:
+        name: "\u0445\u043E\u0432\u0440\u0438\u043D\u043E"
+        subways: []
+    model: example.region
+    pk: 109
+-   fields:
+        name: "\u0445\u043E\u0440\u043E\u0448\u0451\u0432\u043E-\u043C\u043D\u0451\
+            \u0432\u043D\u0438\u043A\u0438"
+        subways: []
+    model: example.region
+    pk: 110
+-   fields:
+        name: "\u0445\u043E\u0440\u043E\u0448\u0451\u0432\u0441\u043A\u0438\u0439"
+        subways: []
+    model: example.region
+    pk: 111
+-   fields:
+        name: "\u0446\u0430\u0440\u0438\u0446\u044B\u043D\u043E"
+        subways: []
+    model: example.region
+    pk: 112
+-   fields:
+        name: "\u0447\u0435\u0440\u0451\u043C\u0443\u0448\u043A\u0438"
+        subways: [92, 93, 94]
+    model: example.region
+    pk: 113
+-   fields:
+        name: "\u0447\u0435\u0440\u0442\u0430\u043D\u043E\u0432\u043E \u0441\u0435\
+            \u0432\u0435\u0440\u043D\u043E\u0435"
+        subways: []
+    model: example.region
+    pk: 114
+-   fields:
+        name: "\u0447\u0435\u0440\u0442\u0430\u043D\u043E\u0432\u043E \u0446\u0435\
+            \u043D\u0442\u0440\u0430\u043B\u044C\u043D\u043E\u0435"
+        subways: []
+    model: example.region
+    pk: 115
+-   fields:
+        name: "\u0447\u0435\u0440\u0442\u0430\u043D\u043E\u0432\u043E \u044E\u0436\
+            \u043D\u043E\u0435"
+        subways: []
+    model: example.region
+    pk: 116
+-   fields:
+        name: "\u0449\u0443\u043A\u0438\u043D\u043E"
+        subways: [103, 104]
+    model: example.region
+    pk: 117
+-   fields:
+        name: "\u044E\u0436\u043D\u043E\u0435 \u0431\u0443\u0442\u043E\u0432\u043E"
+        subways: [171, 172, 173, 174]
+    model: example.region
+    pk: 118
+-   fields:
+        name: "\u044E\u0436\u043D\u043E\u0435 \u043C\u0435\u0434\u0432\u0435\u0434\
+            \u043A\u043E\u0432\u043E"
+        subways: []
+    model: example.region
+    pk: 119
+-   fields:
+        name: "\u044E\u0436\u043D\u043E\u0435 \u0442\u0443\u0448\u0438\u043D\u043E"
+        subways: []
+    model: example.region
+    pk: 120
+-   fields:
+        name: "\u044E\u0436\u043D\u043E\u043F\u043E\u0440\u0442\u043E\u0432\u044B\u0439"
+        subways: []
+    model: example.region
+    pk: 121
+-   fields:
+        name: "\u044F\u043A\u0438\u043C\u0430\u043D\u043A\u0430"
+        subways: []
+    model: example.region
+    pk: 122
+-   fields:
+        name: "\u044F\u0440\u043E\u0441\u043B\u0430\u0432\u0441\u043A\u0438\u0439"
+        subways: []
+    model: example.region
+    pk: 123
+-   fields:
+        name: "\u044F\u0441\u0435\u043D\u0435\u0432\u043E"
+        subways: [97, 98, 99]
+    model: example.region
+    pk: 124
+-   fields:
+        geo: 1
+        lines: [1]
+        name: "\u0443\u043B\u0438\u0446\u0430 \u043F\u043E\u0434\u0431\u0435\u043B\
+            \u044C\u0441\u043A\u043E\u0433\u043E"
+    model: example.subway
+    pk: 1
+-   fields:
+        geo: 2
+        lines: [1]
+        name: "\u0447\u0435\u0440\u043A\u0438\u0437\u043E\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 2
+-   fields:
+        geo: 3
+        lines: [1]
+        name: "\u043F\u0440\u0435\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0441\u043A\
+            \u0430\u044F \u043F\u043B\u043E\u0449\u0430\u0434\u044C"
+    model: example.subway
+    pk: 3
+-   fields:
+        geo: 4
+        lines: [1]
+        name: "\u0441\u043E\u043A\u043E\u043B\u044C\u043D\u0438\u043A\u0438"
+    model: example.subway
+    pk: 4
+-   fields:
+        geo: 5
+        lines: [1]
+        name: "\u043A\u0440\u0430\u0441\u043D\u043E\u0441\u0435\u043B\u044C\u0441\u043A\
+            \u0430\u044F"
+    model: example.subway
+    pk: 5
+-   fields:
+        geo: 6
+        lines: [1, 5]
+        name: "\u043A\u043E\u043C\u0441\u043E\u043C\u043E\u043B\u044C\u0441\u043A\u0430\
+            \u044F"
+    model: example.subway
+    pk: 6
+-   fields:
+        geo: 7
+        lines: [1]
+        name: "\u043A\u0440\u0430\u0441\u043D\u044B\u0435 \u0432\u043E\u0440\u043E\
+            \u0442\u0430"
+    model: example.subway
+    pk: 7
+-   fields:
+        geo: 8
+        lines: [1]
+        name: "\u0447\u0438\u0441\u0442\u044B\u0435 \u043F\u0440\u0443\u0434\u044B"
+    model: example.subway
+    pk: 8
+-   fields:
+        geo: 9
+        lines: [1]
+        name: "\u043B\u0443\u0431\u044F\u043D\u043A\u0430"
+    model: example.subway
+    pk: 9
+-   fields:
+        geo: 10
+        lines: [1]
+        name: "\u043E\u0445\u043E\u0442\u043D\u044B\u0439 \u0440\u044F\u0434"
+    model: example.subway
+    pk: 10
+-   fields:
+        geo: 11
+        lines: [1]
+        name: "\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430 \u0438\
+            \u043C\u0435\u043D\u0438 \u043B\u0435\u043D\u0438\u043D\u0430"
+    model: example.subway
+    pk: 11
+-   fields:
+        geo: 12
+        lines: [1]
+        name: "\u043A\u0440\u043E\u043F\u043E\u0442\u043A\u0438\u043D\u0441\u043A\u0430\
+            \u044F"
+    model: example.subway
+    pk: 12
+-   fields:
+        geo: 13
+        lines: [1, 5]
+        name: "\u043F\u0430\u0440\u043A \u043A\u0443\u043B\u044C\u0442\u0443\u0440\
+            \u044B"
+    model: example.subway
+    pk: 13
+-   fields:
+        geo: 14
+        lines: [1]
+        name: "\u0444\u0440\u0443\u043D\u0437\u0435\u043D\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 14
+-   fields:
+        geo: 15
+        lines: [1]
+        name: "\u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u0430\u044F"
+    model: example.subway
+    pk: 15
+-   fields:
+        geo: 16
+        lines: [1]
+        name: "\u0432\u043E\u0440\u043E\u0431\u044C\u0451\u0432\u044B \u0433\u043E\
+            \u0440\u044B"
+    model: example.subway
+    pk: 16
+-   fields:
+        geo: 17
+        lines: [1]
+        name: "\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442"
+    model: example.subway
+    pk: 17
+-   fields:
+        geo: 18
+        lines: [1]
+        name: "\u043F\u0440\u043E\u0441\u043F\u0435\u043A\u0442 \u0432\u0435\u0440\
+            \u043D\u0430\u0434\u0441\u043A\u043E\u0433\u043E"
+    model: example.subway
+    pk: 18
+-   fields:
+        geo: 19
+        lines: [1]
+        name: "\u044E\u0433\u043E-\u0437\u0430\u043F\u0430\u0434\u043D\u0430\u044F"
+    model: example.subway
+    pk: 19
+-   fields:
+        geo: 20
+        lines: [2]
+        name: "\u0440\u0435\u0447\u043D\u043E\u0439 \u0432\u043E\u043A\u0437\u0430\
+            \u043B"
+    model: example.subway
+    pk: 20
+-   fields:
+        geo: 21
+        lines: [2]
+        name: "\u0432\u043E\u0434\u043D\u044B\u0439 \u0441\u0442\u0430\u0434\u0438\
+            \u043E\u043D"
+    model: example.subway
+    pk: 21
+-   fields:
+        geo: 22
+        lines: [2]
+        name: "\u0432\u043E\u0439\u043A\u043E\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 22
+-   fields:
+        geo: 23
+        lines: [2]
+        name: "\u0441\u043E\u043A\u043E\u043B"
+    model: example.subway
+    pk: 23
+-   fields:
+        geo: 24
+        lines: [2]
+        name: "\u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442"
+    model: example.subway
+    pk: 24
+-   fields:
+        geo: 25
+        lines: [2]
+        name: "\u0434\u0438\u043D\u0430\u043C\u043E"
+    model: example.subway
+    pk: 25
+-   fields:
+        geo: 26
+        lines: [2, 5]
+        name: "\u0431\u0435\u043B\u043E\u0440\u0443\u0441\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 26
+-   fields:
+        geo: 27
+        lines: [2]
+        name: "\u043C\u0430\u044F\u043A\u043E\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 27
+-   fields:
+        geo: 28
+        lines: [2]
+        name: "\u0442\u0432\u0435\u0440\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 28
+-   fields:
+        geo: 29
+        lines: [2]
+        name: "\u0442\u0435\u0430\u0442\u0440\u0430\u043B\u044C\u043D\u0430\u044F"
+    model: example.subway
+    pk: 29
+-   fields:
+        geo: 30
+        lines: [2]
+        name: "\u043D\u043E\u0432\u043E\u043A\u0443\u0437\u043D\u0435\u0446\u043A\u0430\
+            \u044F"
+    model: example.subway
+    pk: 30
+-   fields:
+        geo: 31
+        lines: [2, 5]
+        name: "\u043F\u0430\u0432\u0435\u043B\u0435\u0446\u043A\u0430\u044F"
+    model: example.subway
+    pk: 31
+-   fields:
+        geo: 32
+        lines: [2]
+        name: "\u0430\u0432\u0442\u043E\u0437\u0430\u0432\u043E\u0434\u0441\u043A\u0430\
+            \u044F"
+    model: example.subway
+    pk: 32
+-   fields:
+        geo: 33
+        lines: [2]
+        name: "\u043A\u043E\u043B\u043E\u043C\u0435\u043D\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 33
+-   fields:
+        geo: 34
+        lines: [2, 11]
+        name: "\u043A\u0430\u0448\u0438\u0440\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 34
+-   fields:
+        geo: 35
+        lines: [2]
+        name: "\u043A\u0430\u043D\u0442\u0435\u043C\u0438\u0440\u043E\u0432\u0441\u043A\
+            \u0430\u044F"
+    model: example.subway
+    pk: 35
+-   fields:
+        geo: 36
+        lines: [2]
+        name: "\u0446\u0430\u0440\u0438\u0446\u044B\u043D\u043E"
+    model: example.subway
+    pk: 36
+-   fields:
+        geo: 37
+        lines: [2]
+        name: "\u043E\u0440\u0435\u0445\u043E\u0432\u043E"
+    model: example.subway
+    pk: 37
+-   fields:
+        geo: 38
+        lines: [2]
+        name: "\u0434\u043E\u043C\u043E\u0434\u0435\u0434\u043E\u0432\u0441\u043A\u0430\
+            \u044F"
+    model: example.subway
+    pk: 38
+-   fields:
+        geo: 39
+        lines: [2]
+        name: "\u043A\u0440\u0430\u0441\u043D\u043E\u0433\u0432\u0430\u0440\u0434\u0435\
+            \u0439\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 39
+-   fields:
+        geo: 40
+        lines: [2]
+        name: "\u0430\u043B\u043C\u0430-\u0430\u0442\u0438\u043D\u0441\u043A\u0430\
+            \u044F"
+    model: example.subway
+    pk: 40
+-   fields:
+        geo: 41
+        lines: [3]
+        name: "\u043F\u044F\u0442\u043D\u0438\u0446\u043A\u043E\u0435 \u0448\u043E\
+            \u0441\u0441\u0435"
+    model: example.subway
+    pk: 41
+-   fields:
+        geo: 42
+        lines: [3]
+        name: "\u043C\u0438\u0442\u0438\u043D\u043E"
+    model: example.subway
+    pk: 42
+-   fields:
+        geo: 43
+        lines: [3]
+        name: "\u0432\u043E\u043B\u043E\u043A\u043E\u043B\u0430\u043C\u0441\u043A\u0430\
+            \u044F"
+    model: example.subway
+    pk: 43
+-   fields:
+        geo: 44
+        lines: [3]
+        name: "\u043C\u044F\u043A\u0438\u043D\u0438\u043D\u043E"
+    model: example.subway
+    pk: 44
+-   fields:
+        geo: 45
+        lines: [3]
+        name: "\u0441\u0442\u0440\u043E\u0433\u0438\u043D\u043E"
+    model: example.subway
+    pk: 45
+-   fields:
+        geo: 46
+        lines: [3]
+        name: "\u043A\u0440\u044B\u043B\u0430\u0442\u0441\u043A\u043E\u0435"
+    model: example.subway
+    pk: 46
+-   fields:
+        geo: 47
+        lines: [3]
+        name: "\u043C\u043E\u043B\u043E\u0434\u0451\u0436\u043D\u0430\u044F"
+    model: example.subway
+    pk: 47
+-   fields:
+        geo: 48
+        lines: [3, 4]
+        name: "\u043A\u0443\u043D\u0446\u0435\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 48
+-   fields:
+        geo: 49
+        lines: [3]
+        name: "\u0441\u043B\u0430\u0432\u044F\u043D\u0441\u043A\u0438\u0439 \u0431\
+            \u0443\u043B\u044C\u0432\u0430\u0440"
+    model: example.subway
+    pk: 49
+-   fields:
+        geo: 50
+        lines: [3]
+        name: "\u043F\u0430\u0440\u043A \u043F\u043E\u0431\u0435\u0434\u044B"
+    model: example.subway
+    pk: 50
+-   fields:
+        geo: 51
+        lines: [3, 4, 5]
+        name: "\u043A\u0438\u0435\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 51
+-   fields:
+        geo: 52
+        lines: [3, 4]
+        name: "\u0441\u043C\u043E\u043B\u0435\u043D\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 52
+-   fields:
+        geo: 53
+        lines: [3, 4]
+        name: "\u0430\u0440\u0431\u0430\u0442\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 53
+-   fields:
+        geo: 54
+        lines: [3]
+        name: "\u043F\u043B\u043E\u0449\u0430\u0434\u044C \u0440\u0435\u0432\u043E\
+            \u043B\u044E\u0446\u0438\u0438"
+    model: example.subway
+    pk: 54
+-   fields:
+        geo: 55
+        lines: [3, 5]
+        name: "\u043A\u0443\u0440\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 55
+-   fields:
+        geo: 56
+        lines: [3]
+        name: "\u0431\u0430\u0443\u043C\u0430\u043D\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 56
+-   fields:
+        geo: 57
+        lines: [3]
+        name: "\u044D\u043B\u0435\u043A\u0442\u0440\u043E\u0437\u0430\u0432\u043E\u0434\
+            \u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 57
+-   fields:
+        geo: 58
+        lines: [3]
+        name: "\u0441\u0435\u043C\u0451\u043D\u043E\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 58
+-   fields:
+        geo: 59
+        lines: [3]
+        name: "\u043F\u0430\u0440\u0442\u0438\u0437\u0430\u043D\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 59
+-   fields:
+        geo: 60
+        lines: [3]
+        name: "\u0438\u0437\u043C\u0430\u0439\u043B\u043E\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 60
+-   fields:
+        geo: 61
+        lines: [3]
+        name: "\u043F\u0435\u0440\u0432\u043E\u043C\u0430\u0439\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 61
+-   fields:
+        geo: 62
+        lines: [3]
+        name: "\u0449\u0451\u043B\u043A\u043E\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 62
+-   fields:
+        geo: 63
+        lines: [4]
+        name: "\u043F\u0438\u043E\u043D\u0435\u0440\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 63
+-   fields:
+        geo: 64
+        lines: [4]
+        name: "\u0444\u0438\u043B\u0451\u0432\u0441\u043A\u0438\u0439 \u043F\u0430\
+            \u0440\u043A"
+    model: example.subway
+    pk: 64
+-   fields:
+        geo: 65
+        lines: [4]
+        name: "\u0431\u0430\u0433\u0440\u0430\u0442\u0438\u043E\u043D\u043E\u0432\u0441\
+            \u043A\u0430\u044F"
+    model: example.subway
+    pk: 65
+-   fields:
+        geo: 66
+        lines: [4]
+        name: "\u0444\u0438\u043B\u0438"
+    model: example.subway
+    pk: 66
+-   fields:
+        geo: 67
+        lines: [4]
+        name: "\u043A\u0443\u0442\u0443\u0437\u043E\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 67
+-   fields:
+        geo: 68
+        lines: [4]
+        name: "\u0441\u0442\u0443\u0434\u0435\u043D\u0447\u0435\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 68
+-   fields:
+        geo: 69
+        lines: [4]
+        name: "\u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u0430\
+            \u044F"
+    model: example.subway
+    pk: 69
+-   fields:
+        geo: 70
+        lines: [4]
+        name: "\u0432\u044B\u0441\u0442\u0430\u0432\u043E\u0447\u043D\u0430\u044F"
+    model: example.subway
+    pk: 70
+-   fields:
+        geo: 74
+        lines: [4]
+        name: "\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u043E\u0432\u0441\
+            \u043A\u0438\u0439 \u0441\u0430\u0434"
+    model: example.subway
+    pk: 71
+-   fields:
+        geo: 76
+        lines: [5, 6]
+        name: "\u043E\u043A\u0442\u044F\u0431\u0440\u044C\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 72
+-   fields:
+        geo: 77
+        lines: [5]
+        name: "\u0434\u043E\u0431\u0440\u044B\u043D\u0438\u043D\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 73
+-   fields:
+        geo: 79
+        lines: [5, 7]
+        name: "\u0442\u0430\u0433\u0430\u043D\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 74
+-   fields:
+        geo: 82
+        lines: [5, 6]
+        name: "\u043F\u0440\u043E\u0441\u043F\u0435\u043A\u0442 \u043C\u0438\u0440\
+            \u0430"
+    model: example.subway
+    pk: 75
+-   fields:
+        geo: 83
+        lines: [5]
+        name: "\u043D\u043E\u0432\u043E\u0441\u043B\u043E\u0431\u043E\u0434\u0441\u043A\
+            \u0430\u044F"
+    model: example.subway
+    pk: 76
+-   fields:
+        geo: 85
+        lines: [5]
+        name: "\u043A\u0440\u0430\u0441\u043D\u043E\u043F\u0440\u0435\u0441\u043D\u0435\
+            \u043D\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 77
+-   fields:
+        geo: 87
+        lines: [6]
+        name: "\u043C\u0435\u0434\u0432\u0435\u0434\u043A\u043E\u0432\u043E"
+    model: example.subway
+    pk: 78
+-   fields:
+        geo: 88
+        lines: [6]
+        name: "\u0431\u0430\u0431\u0443\u0448\u043A\u0438\u043D\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 79
+-   fields:
+        geo: 89
+        lines: [6]
+        name: "\u0441\u0432\u0438\u0431\u043B\u043E\u0432\u043E"
+    model: example.subway
+    pk: 80
+-   fields:
+        geo: 90
+        lines: [6]
+        name: "\u0431\u043E\u0442\u0430\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0439\
+            \ \u0441\u0430\u0434"
+    model: example.subway
+    pk: 81
+-   fields:
+        geo: 91
+        lines: [6]
+        name: "\u0432\u0434\u043D\u0445"
+    model: example.subway
+    pk: 82
+-   fields:
+        geo: 92
+        lines: [6]
+        name: "\u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 83
+-   fields:
+        geo: 93
+        lines: [6]
+        name: "\u0440\u0438\u0436\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 84
+-   fields:
+        geo: 95
+        lines: [6]
+        name: "\u0441\u0443\u0445\u0430\u0440\u0435\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 85
+-   fields:
+        geo: 96
+        lines: [6]
+        name: "\u0442\u0443\u0440\u0433\u0435\u043D\u0435\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 86
+-   fields:
+        geo: 97
+        lines: [6, 7]
+        name: "\u043A\u0438\u0442\u0430\u0439-\u0433\u043E\u0440\u043E\u0434"
+    model: example.subway
+    pk: 87
+-   fields:
+        geo: 98
+        lines: [6, 8]
+        name: "\u0442\u0440\u0435\u0442\u044C\u044F\u043A\u043E\u0432\u0441\u043A\u0430\
+            \u044F"
+    model: example.subway
+    pk: 88
+-   fields:
+        geo: 100
+        lines: [6]
+        name: "\u0448\u0430\u0431\u043E\u043B\u043E\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 89
+-   fields:
+        geo: 101
+        lines: [6]
+        name: "\u043B\u0435\u043D\u0438\u043D\u0441\u043A\u0438\u0439 \u043F\u0440\
+            \u043E\u0441\u043F\u0435\u043A\u0442"
+    model: example.subway
+    pk: 90
+-   fields:
+        geo: 102
+        lines: [6]
+        name: "\u0430\u043A\u0430\u0434\u0435\u043C\u0438\u0447\u0435\u0441\u043A\u0430\
+            \u044F"
+    model: example.subway
+    pk: 91
+-   fields:
+        geo: 103
+        lines: [6]
+        name: "\u043F\u0440\u043E\u0444\u0441\u043E\u044E\u0437\u043D\u0430\u044F"
+    model: example.subway
+    pk: 92
+-   fields:
+        geo: 104
+        lines: [6]
+        name: "\u043D\u043E\u0432\u044B\u0435 \u0447\u0435\u0440\u0451\u043C\u0443\
+            \u0448\u043A\u0438"
+    model: example.subway
+    pk: 93
+-   fields:
+        geo: 105
+        lines: [6]
+        name: "\u043A\u0430\u043B\u0443\u0436\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 94
+-   fields:
+        geo: 106
+        lines: [6]
+        name: "\u0431\u0435\u043B\u044F\u0435\u0432\u043E"
+    model: example.subway
+    pk: 95
+-   fields:
+        geo: 107
+        lines: [6]
+        name: "\u043A\u043E\u043D\u044C\u043A\u043E\u0432\u043E"
+    model: example.subway
+    pk: 96
+-   fields:
+        geo: 108
+        lines: [6]
+        name: "\u0442\u0451\u043F\u043B\u044B\u0439 \u0441\u0442\u0430\u043D"
+    model: example.subway
+    pk: 97
+-   fields:
+        geo: 109
+        lines: [6]
+        name: "\u044F\u0441\u0435\u043D\u0435\u0432\u043E"
+    model: example.subway
+    pk: 98
+-   fields:
+        geo: 110
+        lines: [6]
+        name: "\u043D\u043E\u0432\u043E\u044F\u0441\u0435\u043D\u0435\u0432\u0441\u043A\
+            \u0430\u044F"
+    model: example.subway
+    pk: 99
+-   fields:
+        geo: 111
+        lines: [7]
+        name: "\u043F\u043B\u0430\u043D\u0435\u0440\u043D\u0430\u044F"
+    model: example.subway
+    pk: 100
+-   fields:
+        geo: 112
+        lines: [7]
+        name: "\u0441\u0445\u043E\u0434\u043D\u0435\u043D\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 101
+-   fields:
+        geo: 113
+        lines: [7]
+        name: "\u0442\u0443\u0448\u0438\u043D\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 102
+-   fields:
+        geo: 114
+        lines: [7]
+        name: "\u0449\u0443\u043A\u0438\u043D\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 103
+-   fields:
+        geo: 115
+        lines: [7]
+        name: "\u043E\u043A\u0442\u044F\u0431\u0440\u044C\u0441\u043A\u043E\u0435\
+            \ \u043F\u043E\u043B\u0435"
+    model: example.subway
+    pk: 104
+-   fields:
+        geo: 116
+        lines: [7]
+        name: "\u043F\u043E\u043B\u0435\u0436\u0430\u0435\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 105
+-   fields:
+        geo: 117
+        lines: [7]
+        name: "\u0431\u0435\u0433\u043E\u0432\u0430\u044F"
+    model: example.subway
+    pk: 106
+-   fields:
+        geo: 118
+        lines: [7]
+        name: "\u0443\u043B\u0438\u0446\u0430 1905 \u0433\u043E\u0434\u0430"
+    model: example.subway
+    pk: 107
+-   fields:
+        geo: 119
+        lines: [7]
+        name: "\u0431\u0430\u0440\u0440\u0438\u043A\u0430\u0434\u043D\u0430\u044F"
+    model: example.subway
+    pk: 108
+-   fields:
+        geo: 120
+        lines: [7]
+        name: "\u043F\u0443\u0448\u043A\u0438\u043D\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 109
+-   fields:
+        geo: 121
+        lines: [7]
+        name: "\u043A\u0443\u0437\u043D\u0435\u0446\u043A\u0438\u0439 \u043C\u043E\
+            \u0441\u0442"
+    model: example.subway
+    pk: 110
+-   fields:
+        geo: 123
+        lines: [7]
+        name: "\u043F\u0440\u043E\u043B\u0435\u0442\u0430\u0440\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 111
+-   fields:
+        geo: 124
+        lines: [7]
+        name: "\u0432\u043E\u043B\u0433\u043E\u0433\u0440\u0430\u0434\u0441\u043A\u0438\
+            \u0439 \u043F\u0440\u043E\u0441\u043F\u0435\u043A\u0442"
+    model: example.subway
+    pk: 112
+-   fields:
+        geo: 125
+        lines: [7]
+        name: "\u0442\u0435\u043A\u0441\u0442\u0438\u043B\u044C\u0449\u0438\u043A\u0438"
+    model: example.subway
+    pk: 113
+-   fields:
+        geo: 126
+        lines: [7]
+        name: "\u043A\u0443\u0437\u044C\u043C\u0438\u043D\u043A\u0438"
+    model: example.subway
+    pk: 114
+-   fields:
+        geo: 127
+        lines: [7]
+        name: "\u0440\u044F\u0437\u0430\u043D\u0441\u043A\u0438\u0439 \u043F\u0440\
+            \u043E\u0441\u043F\u0435\u043A\u0442"
+    model: example.subway
+    pk: 115
+-   fields:
+        geo: 128
+        lines: [7]
+        name: "\u0432\u044B\u0445\u0438\u043D\u043E"
+    model: example.subway
+    pk: 116
+-   fields:
+        geo: 129
+        lines: [7]
+        name: "\u043B\u0435\u0440\u043C\u043E\u043D\u0442\u043E\u0432\u0441\u043A\u0438\
+            \u0439 \u043F\u0440\u043E\u0441\u043F\u0435\u043A\u0442"
+    model: example.subway
+    pk: 117
+-   fields:
+        geo: 130
+        lines: [7]
+        name: "\u0436\u0443\u043B\u0435\u0431\u0438\u043D\u043E"
+    model: example.subway
+    pk: 118
+-   fields:
+        geo: 131
+        lines: [8]
+        name: "\u043C\u0430\u0440\u043A\u0441\u0438\u0441\u0442\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 119
+-   fields:
+        geo: 132
+        lines: [8]
+        name: "\u043F\u043B\u043E\u0449\u0430\u0434\u044C \u0438\u043B\u044C\u0438\
+            \u0447\u0430"
+    model: example.subway
+    pk: 120
+-   fields:
+        geo: 133
+        lines: [8]
+        name: "\u0430\u0432\u0438\u0430\u043C\u043E\u0442\u043E\u0440\u043D\u0430\u044F"
+    model: example.subway
+    pk: 121
+-   fields:
+        geo: 134
+        lines: [8]
+        name: "\u0448\u043E\u0441\u0441\u0435 \u044D\u043D\u0442\u0443\u0437\u0438\
+            \u0430\u0441\u0442\u043E\u0432"
+    model: example.subway
+    pk: 122
+-   fields:
+        geo: 135
+        lines: [8]
+        name: "\u043F\u0435\u0440\u043E\u0432\u043E"
+    model: example.subway
+    pk: 123
+-   fields:
+        geo: 136
+        lines: [8]
+        name: "\u043D\u043E\u0432\u043E\u0433\u0438\u0440\u0435\u0435\u0432\u043E"
+    model: example.subway
+    pk: 124
+-   fields:
+        geo: 137
+        lines: [8]
+        name: "\u043D\u043E\u0432\u043E\u043A\u043E\u0441\u0438\u043D\u043E"
+    model: example.subway
+    pk: 125
+-   fields:
+        geo: 138
+        lines: [9]
+        name: "\u0430\u043B\u0442\u0443\u0444\u044C\u0435\u0432\u043E"
+    model: example.subway
+    pk: 126
+-   fields:
+        geo: 139
+        lines: [9]
+        name: "\u0431\u0438\u0431\u0438\u0440\u0435\u0432\u043E"
+    model: example.subway
+    pk: 127
+-   fields:
+        geo: 140
+        lines: [9]
+        name: "\u043E\u0442\u0440\u0430\u0434\u043D\u043E\u0435"
+    model: example.subway
+    pk: 128
+-   fields:
+        geo: 141
+        lines: [9]
+        name: "\u0432\u043B\u0430\u0434\u044B\u043A\u0438\u043D\u043E"
+    model: example.subway
+    pk: 129
+-   fields:
+        geo: 142
+        lines: [9]
+        name: "\u043F\u0435\u0442\u0440\u043E\u0432\u0441\u043A\u043E-\u0440\u0430\
+            \u0437\u0443\u043C\u043E\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 130
+-   fields:
+        geo: 143
+        lines: [9]
+        name: "\u0442\u0438\u043C\u0438\u0440\u044F\u0437\u0435\u0432\u0441\u043A\u0430\
+            \u044F"
+    model: example.subway
+    pk: 131
+-   fields:
+        geo: 144
+        lines: [9]
+        name: "\u0434\u043C\u0438\u0442\u0440\u043E\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 132
+-   fields:
+        geo: 145
+        lines: [9]
+        name: "\u0441\u0430\u0432\u0451\u043B\u043E\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 133
+-   fields:
+        geo: 146
+        lines: [9]
+        name: "\u043C\u0435\u043D\u0434\u0435\u043B\u0435\u0435\u0432\u0441\u043A\u0430\
+            \u044F"
+    model: example.subway
+    pk: 134
+-   fields:
+        geo: 147
+        lines: [9]
+        name: "\u0446\u0432\u0435\u0442\u043D\u043E\u0439 \u0431\u0443\u043B\u044C\
+            \u0432\u0430\u0440"
+    model: example.subway
+    pk: 135
+-   fields:
+        geo: 148
+        lines: [9]
+        name: "\u0447\u0435\u0445\u043E\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 136
+-   fields:
+        geo: 149
+        lines: [9]
+        name: "\u0431\u043E\u0440\u043E\u0432\u0438\u0446\u043A\u0430\u044F"
+    model: example.subway
+    pk: 137
+-   fields:
+        geo: 150
+        lines: [9]
+        name: "\u043F\u043E\u043B\u044F\u043D\u043A\u0430"
+    model: example.subway
+    pk: 138
+-   fields:
+        geo: 151
+        lines: [9]
+        name: "\u0441\u0435\u0440\u043F\u0443\u0445\u043E\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 139
+-   fields:
+        geo: 152
+        lines: [9]
+        name: "\u0442\u0443\u043B\u044C\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 140
+-   fields:
+        geo: 153
+        lines: [9]
+        name: "\u043D\u0430\u0433\u0430\u0442\u0438\u043D\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 141
+-   fields:
+        geo: 154
+        lines: [9]
+        name: "\u043D\u0430\u0433\u043E\u0440\u043D\u0430\u044F"
+    model: example.subway
+    pk: 142
+-   fields:
+        geo: 155
+        lines: [9]
+        name: "\u043D\u0430\u0445\u0438\u043C\u043E\u0432\u0441\u043A\u0438\u0439\
+            \ \u043F\u0440\u043E\u0441\u043F\u0435\u043A\u0442"
+    model: example.subway
+    pk: 143
+-   fields:
+        geo: 156
+        lines: [9]
+        name: "\u0441\u0435\u0432\u0430\u0441\u0442\u043E\u043F\u043E\u043B\u044C\u0441\
+            \u043A\u0430\u044F"
+    model: example.subway
+    pk: 144
+-   fields:
+        geo: 157
+        lines: [9]
+        name: "\u0447\u0435\u0440\u0442\u0430\u043D\u043E\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 145
+-   fields:
+        geo: 158
+        lines: [9]
+        name: "\u044E\u0436\u043D\u0430\u044F"
+    model: example.subway
+    pk: 146
+-   fields:
+        geo: 159
+        lines: [9]
+        name: "\u043F\u0440\u0430\u0436\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 147
+-   fields:
+        geo: 160
+        lines: [9]
+        name: "\u0443\u043B\u0438\u0446\u0430 \u0430\u043A\u0430\u0434\u0435\u043C\
+            \u0438\u043A\u0430 \u044F\u043D\u0433\u0435\u043B\u044F"
+    model: example.subway
+    pk: 148
+-   fields:
+        geo: 161
+        lines: [9]
+        name: "\u0430\u043D\u043D\u0438\u043D\u043E"
+    model: example.subway
+    pk: 149
+-   fields:
+        geo: 162
+        lines: [9]
+        name: "\u0431\u0443\u043B\u044C\u0432\u0430\u0440 \u0434\u043C\u0438\u0442\
+            \u0440\u0438\u044F \u0434\u043E\u043D\u0441\u043A\u043E\u0433\u043E"
+    model: example.subway
+    pk: 150
+-   fields:
+        geo: 163
+        lines: [10]
+        name: "\u043C\u0430\u0440\u044C\u0438\u043D\u0430 \u0440\u043E\u0449\u0430"
+    model: example.subway
+    pk: 151
+-   fields:
+        geo: 164
+        lines: [10]
+        name: "\u0434\u043E\u0441\u0442\u043E\u0435\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 152
+-   fields:
+        geo: 165
+        lines: [10]
+        name: "\u0442\u0440\u0443\u0431\u043D\u0430\u044F"
+    model: example.subway
+    pk: 153
+-   fields:
+        geo: 166
+        lines: [10]
+        name: "\u0441\u0440\u0435\u0442\u0435\u043D\u0441\u043A\u0438\u0439 \u0431\
+            \u0443\u043B\u044C\u0432\u0430\u0440"
+    model: example.subway
+    pk: 154
+-   fields:
+        geo: 167
+        lines: [10]
+        name: "\u0447\u043A\u0430\u043B\u043E\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 155
+-   fields:
+        geo: 168
+        lines: [10]
+        name: "\u0440\u0438\u043C\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 156
+-   fields:
+        geo: 169
+        lines: [10]
+        name: "\u043A\u0440\u0435\u0441\u0442\u044C\u044F\u043D\u0441\u043A\u0430\u044F\
+            \ \u0437\u0430\u0441\u0442\u0430\u0432\u0430"
+    model: example.subway
+    pk: 157
+-   fields:
+        geo: 170
+        lines: [10]
+        name: "\u0434\u0443\u0431\u0440\u043E\u0432\u043A\u0430"
+    model: example.subway
+    pk: 158
+-   fields:
+        geo: 171
+        lines: [10]
+        name: "\u043A\u043E\u0436\u0443\u0445\u043E\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 159
+-   fields:
+        geo: 172
+        lines: [10]
+        name: "\u043F\u0435\u0447\u0430\u0442\u043D\u0438\u043A\u0438"
+    model: example.subway
+    pk: 160
+-   fields:
+        geo: 173
+        lines: [10]
+        name: "\u0432\u043E\u043B\u0436\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 161
+-   fields:
+        geo: 174
+        lines: [10]
+        name: "\u043B\u044E\u0431\u043B\u0438\u043D\u043E"
+    model: example.subway
+    pk: 162
+-   fields:
+        geo: 175
+        lines: [10]
+        name: "\u0431\u0440\u0430\u0442\u0438\u0441\u043B\u0430\u0432\u0441\u043A\u0430\
+            \u044F"
+    model: example.subway
+    pk: 163
+-   fields:
+        geo: 176
+        lines: [10]
+        name: "\u043C\u0430\u0440\u044C\u0438\u043D\u043E"
+    model: example.subway
+    pk: 164
+-   fields:
+        geo: 177
+        lines: [10]
+        name: "\u0431\u043E\u0440\u0438\u0441\u043E\u0432\u043E"
+    model: example.subway
+    pk: 165
+-   fields:
+        geo: 178
+        lines: [10]
+        name: "\u0448\u0438\u043F\u0438\u043B\u043E\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 166
+-   fields:
+        geo: 179
+        lines: [10]
+        name: "\u0437\u044F\u0431\u043B\u0438\u043A\u043E\u0432\u043E"
+    model: example.subway
+    pk: 167
+-   fields:
+        geo: 180
+        lines: [11]
+        name: "\u0432\u0430\u0440\u0448\u0430\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 168
+-   fields:
+        geo: 181
+        lines: [11]
+        name: "\u043A\u0430\u0445\u043E\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 169
+-   fields:
+        geo: 182
+        lines: [12]
+        name: "\u0443\u043B\u0438\u0446\u0430 \u0441\u0442\u0430\u0440\u043E\u043A\
+            \u0430\u0447\u0430\u043B\u043E\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 170
+-   fields:
+        geo: 183
+        lines: [12]
+        name: "\u0443\u043B\u0438\u0446\u0430 \u0441\u043A\u043E\u0431\u0435\u043B\
+            \u0435\u0432\u0441\u043A\u0430\u044F"
+    model: example.subway
+    pk: 171
+-   fields:
+        geo: 184
+        lines: [12]
+        name: "\u0431\u0443\u043B\u044C\u0432\u0430\u0440 \u0430\u0434\u043C\u0438\
+            \u0440\u0430\u043B\u0430 \u0443\u0448\u0430\u043A\u043E\u0432\u0430"
+    model: example.subway
+    pk: 172
+-   fields:
+        geo: 185
+        lines: [12]
+        name: "\u0443\u043B\u0438\u0446\u0430 \u0433\u043E\u0440\u0447\u0430\u043A\
+            \u043E\u0432\u0430"
+    model: example.subway
+    pk: 173
+-   fields:
+        geo: 186
+        lines: [12]
+        name: "\u0431\u0443\u043D\u0438\u043D\u0441\u043A\u0430\u044F \u0430\u043B\
+            \u043B\u0435\u044F"
+    model: example.subway
+    pk: 174
+-   fields: {line_number: 1, name: "\u0441\u043E\u043A\u043E\u043B\u044C\u043D\u0438\
+            \u0447\u0435\u0441\u043A\u0430\u044F \u043B\u0438\u043D\u0438\u044F"}
+    model: example.line
+    pk: 1
+-   fields: {line_number: 2, name: "\u0437\u0430\u043C\u043E\u0441\u043A\u0432\u043E\
+            \u0440\u0435\u0446\u043A\u0430\u044F \u043B\u0438\u043D\u0438\u044F"}
+    model: example.line
+    pk: 2
+-   fields: {line_number: 3, name: "\u0430\u0440\u0431\u0430\u0442\u0441\u043A\u043E\
+            -\u043F\u043E\u043A\u0440\u043E\u0432\u0441\u043A\u0430\u044F \u043B\u0438\
+            \u043D\u0438\u044F"}
+    model: example.line
+    pk: 3
+-   fields: {line_number: 4, name: "\u0444\u0438\u043B\u0451\u0432\u0441\u043A\u0430\
+            \u044F \u043B\u0438\u043D\u0438\u044F"}
+    model: example.line
+    pk: 4
+-   fields: {line_number: 5, name: "\u043A\u043E\u043B\u044C\u0446\u0435\u0432\u0430\
+            \u044F \u043B\u0438\u043D\u0438\u044F"}
+    model: example.line
+    pk: 5
+-   fields: {line_number: 6, name: "\u043A\u0430\u043B\u0443\u0436\u0441\u043A\u043E\
+            -\u0440\u0438\u0436\u0441\u043A\u0430\u044F \u043B\u0438\u043D\u0438\u044F"}
+    model: example.line
+    pk: 6
+-   fields: {line_number: 7, name: "\u0442\u0430\u0433\u0430\u043D\u0441\u043A\u043E\
+            -\u043A\u0440\u0430\u0441\u043D\u043E\u043F\u0440\u0435\u0441\u043D\u0435\
+            \u043D\u0441\u043A\u0430\u044F \u043B\u0438\u043D\u0438\u044F"}
+    model: example.line
+    pk: 7
+-   fields: {line_number: 8, name: "\u043A\u0430\u043B\u0438\u043D\u0438\u043D\u0441\
+            \u043A\u0430\u044F \u043B\u0438\u043D\u0438\u044F"}
+    model: example.line
+    pk: 8
+-   fields: {line_number: 9, name: "\u0441\u0435\u0440\u043F\u0443\u0445\u043E\u0432\
+            \u0441\u043A\u043E-\u0442\u0438\u043C\u0438\u0440\u044F\u0437\u0435\u0432\
+            \u0441\u043A\u0430\u044F \u043B\u0438\u043D\u0438\u044F"}
+    model: example.line
+    pk: 9
+-   fields: {line_number: 10, name: "\u043B\u044E\u0431\u043B\u0438\u043D\u0441\u043A\
+            \u043E-\u0434\u043C\u0438\u0442\u0440\u043E\u0432\u0441\u043A\u0430\u044F\
+            \ \u043B\u0438\u043D\u0438\u044F"}
+    model: example.line
+    pk: 10
+-   fields: {line_number: 11, name: "\u043A\u0430\u0445\u043E\u0432\u0441\u043A\u0430\
+            \u044F \u043B\u0438\u043D\u0438\u044F"}
+    model: example.line
+    pk: 11
+-   fields: {line_number: 12, name: "\u0431\u0443\u0442\u043E\u0432\u0441\u043A\u0430\
+            \u044F \u043B\u0438\u043D\u0438\u044F"}
+    model: example.line
+    pk: 12
