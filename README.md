@@ -1,0 +1,4 @@
+FED
+===
+
+FridayEveryDay
