@@ -1,6 +1,6 @@
 from example.management.analizes.Analiz import Analiz
 from example.management.grabbers.events.TwoDoTwoGoGrabber import Grabber
-from example.management.grabbers.multy_start import *
+from example.management.grabbers.multi_start import *
 from datetime import datetime
 
 

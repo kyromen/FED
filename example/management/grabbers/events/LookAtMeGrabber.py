@@ -13,7 +13,7 @@ class LookAtMeGrabber(EventsGrabber):
         else:
             return (datetime.now().year - 2007) * 356
         self.driver.get(url)
-        pages = self.driver.find_elements_by_css_selector('ul.pages > li > a')
+        pages = self.driver.find_elements_by_css_selector('ul.list-pages > li > a')
         number_of_pages = int(pages[len(pages) - 1].text)
         return number_of_pages
 
@@ -105,7 +105,7 @@ class LookAtMeGrabber(EventsGrabber):
                 if len(self.driver.find_elements_by_class_name('date')):
                     date = self.driver.find_element_by_class_name('date').text
                     date += ' ' + self.driver.find_element_by_class_name('month').text
-                    date += ', ' + self.get_parallel_attribute(info_dts, info_dds, u'НАЧАЛО')
+                    date += ', ' + str(self.get_parallel_attribute(info_dts, info_dds, u'НАЧАЛО'))
                     duration = self.string_to_date(date)
 
                 event = dict(title=self.grab_value_via_try_except_by('h1.b-article-title').lower(),

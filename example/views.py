@@ -76,18 +76,6 @@ def home(request):
                     regions.append(word.lower())
                 elif check_object(Subway, {'name__regex': r'(^' + word.lower() + '$)'}):
                     subways.append(Subway.objects.get(name=word.lower()))
-            elif info[0]['class'] == 'Н':
-                time = re.search('\d{2}:\d{2}', string)
-                if time:
-                    time = time.group(0)
-                    if word == u'завтра':
-                        day = datetime.datetime(day.year, day.month, day.day + 1, int(time.split(':')[0]),
-                                                int(time.split(':')[1]))
-                    else:
-                        day = datetime.datetime(day.year, day.month, day.day, int(time.split(':')[0]),
-                                                int(time.split(':')[1]))
-                elif word == u'завтра':
-                    day = day + datetime.timedelta(days=1)
 
         events = []
         cinemas = []

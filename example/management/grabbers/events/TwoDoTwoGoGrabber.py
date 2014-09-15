@@ -98,9 +98,11 @@ class TwoDoTwoGoGrabber(EventsGrabber):
                     time_till = self.string_to_date(time_till)
 
             place = self.grab_value_via_try_except_by('div.event-schedule_place-name')
+            categories = self.get_parallel_attribute(info_labels, info_labeled, u'Категории:').split(', ')
+            categories = categories.split(', ') if isinstance(categories, str) else None
 
             event = dict(title=self.grab_value_via_try_except_by('h1.h__xbig').lower(),
-                         subjects=self.get_parallel_attribute(info_labels, info_labeled, u'Категории:').split(', '),
+                         subjects=categories,
                          price=self.split_prices(self.get_parallel_attribute(info_labels, info_labeled, u'Цена:')),
                          place=place.lower() if isinstance(place, basestring) else None,
                          address=self.addresses[pages.index(page)].lower(), href=page,

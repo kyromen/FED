@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 from types import NoneType
-from datetime import datetime
 from example.management.grabbers.Grabber import *
 from selenium.common.exceptions import ErrorInResponseException, ImeActivationFailedException
 from example.models.cinema import *
+from datetime import datetime, timedelta
 
 
 class CinemaGrabber(Grabber):
@@ -55,17 +55,17 @@ class CinemaGrabber(Grabber):
                     for tu in times:
                         string = tu.text.replace(u'\u200e', '')
                         t = string.split(':')
-                        year = datetime.datetime.now().year
-                        month = datetime.datetime.now().month
+                        year = datetime.now().year
+                        month = datetime.now().month
 
                         # check night session
                         if t[0] < 2:
-                            day = datetime.datetime.now().day + 1
+                            day = datetime.now().day + 1
                         else:
-                            day = datetime.datetime.now().day
+                            day = datetime.now().day
 
                         films[key]['schedule'].append(
-                            datetime.datetime(year, month, day, int(t[0]), int(t[1])) + datetime.timedelta(
+                            datetime(year, month, day, int(t[0]), int(t[1])) + timedelta(
                                 days=periods.index(period)))
 
                 self.driver.get(period)
@@ -82,8 +82,8 @@ class CinemaGrabber(Grabber):
         self.save()
 
     def save(self):
-        Cinema.clean()
-        Film.clean()
+        # Cinema.clean()
+        # Film.clean()
 
         for cinema in self.cinemas:
             try:
@@ -175,12 +175,12 @@ class CinemaGrabber(Grabber):
             u'\u042e': 'Yu', u'\u044e': 'yu',
             u'\u042f': 'Ya', u'\u044f': 'ya',
         }
-        translitstring = []
+        translit_string = []
         for c in locallangstring:
-            translitstring.append(conversion.setdefault(c, c))
-        return ''.join(translitstring)
+            translit_string.append(conversion.setdefault(c, c))
+        return ''.join(translit_string)
 
-    def start(self, queue, grabber, browser_name):
+    def start(self, queue, grabber_cls, browser_name):
         while True:
             job = queue.get()
 
@@ -189,14 +189,13 @@ class CinemaGrabber(Grabber):
 
             while 1:
                 try:
-                    a = datetime.now()
-                    grabber.__init__(0, browser_name)
+                    grabber = grabber_cls(0, browser_name)
                     grabber.grab_cinema(job[0])
                     queue.task_done()
-                    print '+ %d %d' % (len(grabber.cinemas), datetime.now() - a)
                     break
                 except (ErrorInResponseException, ImeActivationFailedException, KeyboardInterrupt):
                     print "4_Unexpected error: %s url: %s" % (sys.exc_info()[0], grabber.driver.current_url)
                     grabber.driver.quit()
                     exit(0)
+        grabber.driver.quit()
         queue.task_done()

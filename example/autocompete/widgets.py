@@ -35,7 +35,7 @@ media_js = ('%sjs/admin/jquery.autocomplete.js' % settings.MEDIA_URL, )
 
 class ForeignKeySearchInput(forms.HiddenInput):
     """
-	A Widget for displaying ForeignKeys in an autocomplete search input 
+	A Widget for displaying ForeignKeys in an autocomplete search input
 	instead in a <select> box.
 	"""
 
@@ -85,7 +85,7 @@ class ForeignKeySearchInput(forms.HiddenInput):
 
 class ManyToManySearchInput(forms.MultipleHiddenInput):
     """
-	A Widget for displaying ForeignKeys in an autocomplete search input 
+	A Widget for displaying ForeignKeys in an autocomplete search input
 	instead in a <select> box.
 	"""
 
@@ -347,7 +347,7 @@ class AutocompleteTabularInline(AutocompleteInlineModelAdmin):
 
 class WildModelSearchInput(forms.HiddenInput):
     """
-	A Widget for displaying ForeignKeys in an autocomplete search input 
+	A Widget for displaying ForeignKeys in an autocomplete search input
 	instead in a <select> box.
 	"""
 

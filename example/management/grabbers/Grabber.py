@@ -11,9 +11,6 @@ sys.setdefaultencoding('utf8')
 
 
 class Grabber:
-    # api key for yandex api
-    api_key = 'AL58ZlIBAAAA7Xs2NwIANDolptueIwOHHYvb76TmuGgXIu4AAAAAAAAAAAAuO3HCoZ2VUAPtAsm6-MOrhoGN-w=='
-
     def __init__(self, verbose, browser):
         self.verbose = verbose
         self.set_driver(browser)
@@ -22,6 +19,7 @@ class Grabber:
         if browser == 'phantomjs':
             if options is None:
                 options = [['--load-images=false']]
+
             if options == 0:
                 self.driver = webdriver.PhantomJS()
             else:
@@ -33,6 +31,7 @@ class Grabber:
                            ['dom.ipc.plugins.enabled.libflashplayer.so', 'false'],
                            ['browser.download.folderList', 2],
                            ['javascript.enabled', 'false']]
+
             if options == 0:
                 self.driver = webdriver.Firefox()
             else:
@@ -54,7 +53,8 @@ class Grabber:
         return 0
 
     def get_point(self, address):
-        pos = api.geocode(self.api_key, u'Москва ' + address)
+        api_key = 'AL58ZlIBAAAA7Xs2NwIANDolptueIwOHHYvb76TmuGgXIu4AAAAAAAAAAAAuO3HCoZ2VUAPtAsm6-MOrhoGN-w=='
+        pos = api.geocode(api_key, u'Москва ' + address)
         if pos[0] is None:
             return None
         return {'x': float(pos[0]), 'y': float(pos[1])}

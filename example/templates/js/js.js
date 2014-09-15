@@ -1,3 +1,4 @@
+
 function createObjects() {
     var ul_events=document.getElementById('events');
     var ul_cinemas=document.getElementById('cinemas');

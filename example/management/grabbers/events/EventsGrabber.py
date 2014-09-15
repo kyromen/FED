@@ -38,27 +38,11 @@ def time_limit(seconds):
 
 
 class EventsGrabber(Grabber):
-    # initialize for string_to_date function
-    months = {
-        u'янв': 1,
-        u'фев': 2,
-        u'мар': 3,
-        u'апр': 4,
-        u'мая': 5,
-        u'июн': 6,
-        u'июл': 7,
-        u'авг': 8,
-        u'сен': 9,
-        u'окт': 10,
-        u'ноя': 11,
-        u'дек': 12
-    }
-
     def __init__(self, verbose=0, browser='phantomjs'):
         Grabber.__init__(self, verbose, browser)
         self.events = []
 
-    def start(self, queue, grabber, browser_name):
+    def start(self, queue, grabber_cls, browser_name):
         start = True
         while True:
             job = queue.get()
@@ -69,30 +53,29 @@ class EventsGrabber(Grabber):
                     try:
                         if start:
                             # limit of initialize browser running time
-                            with time_limit(10):
-                                grabber.__init__(0, browser_name)
+                            with time_limit(15):
+                                grabber = grabber_cls(0, browser_name)
                                 start = False
 
                         # limit of grabber running time
                         with time_limit(1800):
-                            a = datetime.now()
                             grabber.grab_pages_with_objects('future', job[0], job[1])
                             grabber.grab_events_pages()
                             queue.task_done()
-                            print '+ %d %d' % (len(grabber.pages), datetime.now() - a)
                             break
                     except TimeoutException:
                         print "Error:", sys.exc_info()[0]
+                        grabber.driver.quit()
                     except (ErrorInResponseException, ImeActivationFailedException, KeyboardInterrupt):
                         print "Error: %s url: %s" % (sys.exc_info()[0], grabber.driver.current_url)
                         grabber.driver.quit()
                         exit(0)
                     except (BadStatusLine, URLError):
                         print "Error:", sys.exc_info()[0]
-                        grabber.__init__(0, browser_name)
+                        grabber = grabber_cls(0, browser_name)
                         continue
                 except (WebDriverException, URLError, BadStatusLine):
-                    grabber.__init__(0, browser_name)
+                    grabber = grabber_cls(0, browser_name)
         grabber.driver.quit()
         queue.task_done()
 
@@ -133,10 +116,25 @@ class EventsGrabber(Grabber):
             return {'none': 1}
 
     def string_to_date(self, string):
+        months = {
+            u'янв': 1,
+            u'фев': 2,
+            u'мар': 3,
+            u'апр': 4,
+            u'мая': 5,
+            u'июн': 6,
+            u'июл': 7,
+            u'авг': 8,
+            u'сен': 9,
+            u'окт': 10,
+            u'ноя': 11,
+            u'дек': 12
+        }
+
         parts = string.split(', ')
         day_and_month = parts[0].split(' ')
 
-        day_and_month[1] = self.months[day_and_month[1][:3]]
+        day_and_month[1] = months[day_and_month[1][:3]]
         hour_and_min = parts[1].split(':')
 
         max_duration = 6
@@ -149,9 +147,9 @@ class EventsGrabber(Grabber):
             year = datetime.now().year + 1
 
         if hour_and_min[0] == u'Круглосуточно':
-            return datetime.datetime(year, day_and_month[1], int(day_and_month[0]))
+            return datetime(year, day_and_month[1], int(day_and_month[0]))
 
-        return datetime.datetime(year, day_and_month[1], int(day_and_month[0]), int(hour_and_min[0]),
+        return datetime(year, day_and_month[1], int(day_and_month[0]), int(hour_and_min[0]),
                                  int(hour_and_min[1]))
 
     def get_nearest_subways(self, point):

@@ -85,7 +85,6 @@ body {
 	position: relative;
 	float: left;
     border: 3px solid grey;
-	border-radius: 100px;
 }
 
 .objects {
@@ -145,3 +144,5 @@ form {
 form > input {
     width: 995px;
 }
+
+.leaflet-control-attribution { display: none; }

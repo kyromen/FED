@@ -8,13 +8,13 @@ class Analiz:
         self.times = []
 
     def showTimePlot(self):
-        N = self.times[0].__len__()
+        N = len(self.times[0])
         plt.figure()
-        for i in range(self.times.__len__()):
+        for i in range(len(self.times)):
             plt.plot(range(1, N+1, 1), self.times[i])
-            if self.line_names.__len__() != 0:
+            if len(self.line_names) != 0:
                 x_text = N // 2
-                y_text = self.times[i][self.times[i].__len__() // 2]
+                y_text = self.times[i][len(self.times[i]) // 2]
                 plt.annotate(self.line_names[i], xy=(x_text, y_text), xytext=(x_text + 2, y_text + 2),
                              arrowprops=dict(facecolor='black', shrink=0.005), )
         plt.xlabel("N")

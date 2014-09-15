@@ -27,15 +27,16 @@ class AnalizOfBrowsers(Analiz):
 
         url_pattern = 'http://www.2do2go.ru/msk/events?end=' + datetime.now().strftime(
             '%Y-%m-%d') + '&overpast=true&page='
-        limit_of_events = 1500
+        limit_of_events = 1
 
-        for i in range(self.grabbers.__len__()):
+        for i in range(len(self.grabbers)):
             page_number = 1
 
             # grabbed pages
             while 1:
                 self.grabbers[i].driver.get(url_pattern + str(page_number))
 
+                self.grabbers[i].pages = []
                 events_links = self.grabbers[i].driver.find_elements_by_class_name('medium-events-list_link')
                 self.grabbers[i].set_pages(events_links)
 
@@ -96,6 +97,7 @@ class AnalizOfBrowsers(Analiz):
 
         for i in range(self.grabbers.__len__()):
             page_number = 1
+
             while 1:
                 t0 = datetime.now()
                 self.grabbers[i].driver.get(url_pattern + str(page_number))

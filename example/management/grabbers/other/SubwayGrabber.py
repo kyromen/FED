@@ -17,32 +17,34 @@ class SubwayGrabber(Grabber):
         trs = self.driver.find_elements_by_css_selector('table.sortable > tbody > tr')
 
         for tr in trs:
-            if tr.find_elements_by_css_selector('td > span > a'):
-                name = tr.find_elements_by_css_selector('td > span > a')[0].text
-            else:
-                name = tr.find_elements_by_css_selector('td > a')[1].text
             subway = {
-                'name': name.lower(),
+                'name': tr.find_elements_by_css_selector('td > span > a')[1].text.lower(),
                 'line': [
-                    int(re.search(u'\d+', tr.find_elements_by_css_selector('td > a')[0].get_attribute('title')).group(
-                        0)),
-                    re.sub(u'^№[\d]+ ', '',
-                           tr.find_elements_by_css_selector('td > a')[0].get_attribute('title').lower())
+                    self.get_number_line(tr.find_element_by_css_selector('.sortkey').get_attribute('innerHTML')),
+                    tr.find_elements_by_css_selector('td > span')[1].get_attribute('title').lower()
                 ],
-                'geo': [
-                    float(tr.find_element_by_css_selector('span.geo-dec > span.geo-lon').text),
-                    float(tr.find_element_by_css_selector('span.geo-dec > span.geo-lat').text)
-                ]
+                'geo': self.get_geo(tr.find_element_by_css_selector('span.geo-dec span.vcard span.geo-dec').text)
             }
             self.subways.append(subway)
 
         self.save(self.subways)
         self.driver.quit()
 
+    @staticmethod
+    def get_geo(text):
+        geo = re.findall("\d+\.\d+", text)
+        return [float(i) for i in geo]
+
+    @staticmethod
+    def get_number_line(text):
+        if text[0] == '0':
+            text = text[1:]
+        return int(text)
+
     def save(self, subways):
         for subway in subways:
-            point = Point.objects.get_or_create(x=subway['geo'][0], y=subway['geo'][1])
-            line = Line.objects.get_or_create(name=subway['line'][1], line_number=subway['line'][0])
+            point = Point.objects.get_or_create(x=subway['geo'][0], y=subway['geo'][1])[0]
+            line = Line.objects.get_or_create(name=subway['line'][1], line_number=subway['line'][0])[0]
 
             try:
                 sbw = Subway.objects.get(name=subway['name'])
