@@ -20,7 +20,7 @@ class Command(BaseCommand):
                     action="store_true",
                     dest="verbose",
                     default=False,
-                    help="don't print status messages to stdout"
+                    help="print status messages to stdout"
         ),
     )
 
